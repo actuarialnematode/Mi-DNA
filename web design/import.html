@@ -1,0 +1,123 @@
+<!DOCTYPE html><!--  This site was created in Webflow. http://www.webflow.com  -->
+<!--  Last Published: Thu Apr 07 2022 00:47:46 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="624e2302ac79800a9937709c" data-wf-site="624dd698a63c9fd110c29b77">
+<head>
+  <meta charset="utf-8">
+  <title>Import</title>
+  <meta content="Import" property="og:title">
+  <meta content="Import" property="twitter:title">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="Webflow" name="generator">
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="css/mi-dna.webflow.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({  google: {    families: ["PT Sans:400,400italic,700,700italic","Playfair Display:regular","Josefin Sans:regular"]  }});</script>
+  <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon">
+  <link href="images/webclip.png" rel="apple-touch-icon">
+</head>
+<body class="body">
+  <div class="wf-section">
+    <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="w-nav">
+      <div class="container w-container">
+        <a href="index.html" target="_blank" class="w-nav-brand"><img src="images/New-Project-1.png" loading="lazy" width="256" sizes="(max-width: 479px) 96vw, 256px" id="logo" srcset="images/New-Project-1-p-500.png 500w, images/New-Project-1-p-800.png 800w, images/New-Project-1.png 923w" alt="" class="image"></a>
+        <nav role="navigation" class="w-nav-menu">
+          <a href="index.html" class="nav-link w-nav-link">Home</a>
+          <a href="dashboard.html" class="nav-link-3 w-nav-link">Dashboard</a>
+          <a href="import.html" aria-current="page" class="nav-link-2 w-nav-link w--current">Import</a>
+          <a href="register.html" class="nav-link-2 nav-link-4 w-nav-link">Register</a>
+        </nav>
+        <div class="w-nav-button">
+          <div class="icon w-icon-nav-menu"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-3 w-container">
+    <h2 class="heading-4">Project Import</h2>
+    <p class="paragraph">To process your data, please upload a VCF file, PED file, and paste your doctor&#x27;s notes into the field below to return variant data, HPO terms, OMIM terms, and a gene list. The application will assume there is only one sample in the VCF file if no BED file is specified. Once submitted, you will be redirected to the dashboard panel.</p>
+    <div class="form-block w-form">
+      <form id="email-form" name="email-form" data-name="Email Form" method="get" class="form">
+        <div class="file-upload w-file-upload">
+          <div class="default-state w-file-upload-default"><input type="file" class="w-file-upload-input" accept="" name="file" data-name="File" aria-hidden="true" id="file" tabindex="-1"><label for="file" role="button" tabindex="0" class="w-file-upload-label">
+              <div class="w-icon-file-upload-icon"></div>
+              <div class="text w-inline-block">
+                <p>Upload your VCF file here...</p>
+              </div>
+            </label>
+            <div class="text-block-12 w-file-upload-info">Max file size 10MB.</div>
+          </div>
+          <div tabindex="-1" class="w-file-upload-uploading w-hidden">
+            <div class="w-file-upload-uploading-btn"><svg class="w-icon-file-upload-uploading" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 30 30" ariahidden="true">
+                <path fill="currentColor" opacity=".2" d="M15 30a15 15 0 1 1 0-30 15 15 0 0 1 0 30zm0-3a12 12 0 1 0 0-24 12 12 0 0 0 0 24z"></path>
+                <path fill="currentColor" opacity=".75" d="M0 15A15 15 0 0 1 15 0v3A12 12 0 0 0 3 15H0z"></path>
+                  <animatetransform attributename="transform" attributetype="XML" dur="0.6s" from="0 15 15" repeatcount="indefinite" to="360 15 15" type="rotate"></animatetransform>
+              </svg>
+              <div class="w-inline-block">Uploading...</div>
+            </div>
+          </div>
+          <div tabindex="-1" class="w-file-upload-success w-hidden">
+            <div class="w-file-upload-file">
+              <div class="w-file-upload-file-name">fileuploaded.jpg</div>
+              <div aria-label="Remove file" role="button" tabindex="0" class="w-file-remove-link">
+                <div class="w-icon-file-upload-remove"></div>
+              </div>
+            </div>
+          </div>
+          <div tabindex="-1" class="w-file-upload-error w-hidden">
+            <div class="w-file-upload-error-msg" data-w-size-error="Upload failed. Max size for files is 10 MB." data-w-type-error="Upload failed. Invalid file type." data-w-generic-error="Upload failed. Something went wrong. Please retry.">Upload failed. Max size for files is 10 MB.</div>
+          </div>
+        </div>
+        <div class="file-upload w-file-upload">
+          <div class="default-state-2 w-file-upload-default"><input type="file" class="w-file-upload-input" accept="" name="file-2" data-name="File 2" aria-hidden="true" id="file-2" tabindex="-1"><label for="file-2" role="button" tabindex="0" class="w-file-upload-label">
+              <div class="w-icon-file-upload-icon"></div>
+              <div class="text w-inline-block">
+                <p>Upload your BED file here...</p>
+              </div>
+            </label>
+            <div class="text-block-12 w-file-upload-info">Max file size 10MB.</div>
+          </div>
+          <div tabindex="-1" class="w-file-upload-uploading w-hidden">
+            <div class="w-file-upload-uploading-btn"><svg class="w-icon-file-upload-uploading" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 30 30" ariahidden="true">
+                <path fill="currentColor" opacity=".2" d="M15 30a15 15 0 1 1 0-30 15 15 0 0 1 0 30zm0-3a12 12 0 1 0 0-24 12 12 0 0 0 0 24z"></path>
+                <path fill="currentColor" opacity=".75" d="M0 15A15 15 0 0 1 15 0v3A12 12 0 0 0 3 15H0z"></path>
+                  <animatetransform attributename="transform" attributetype="XML" dur="0.6s" from="0 15 15" repeatcount="indefinite" to="360 15 15" type="rotate"></animatetransform>
+              </svg>
+              <div class="w-inline-block">Uploading...</div>
+            </div>
+          </div>
+          <div tabindex="-1" class="w-file-upload-success w-hidden">
+            <div class="w-file-upload-file">
+              <div class="w-file-upload-file-name">fileuploaded.jpg</div>
+              <div aria-label="Remove file" role="button" tabindex="0" class="w-file-remove-link">
+                <div class="w-icon-file-upload-remove"></div>
+              </div>
+            </div>
+          </div>
+          <div tabindex="-1" class="w-file-upload-error w-hidden">
+            <div class="w-file-upload-error-msg" data-w-size-error="Upload failed. Max size for files is 10 MB." data-w-type-error="Upload failed. Invalid file type." data-w-generic-error="Upload failed. Something went wrong. Please retry.">Upload failed. Max size for files is 10 MB.</div>
+          </div>
+        </div><textarea placeholder="Paste your doctor&#x27;s notes here..." maxlength="5000" id="field" name="field" data-name="field" class="textarea w-input"></textarea><input type="submit" value="Submit" data-wait="Please wait..." class="submit-button w-button">
+      </form>
+      <div class="success-message w-form-done">
+        <div>Thank you! Your submission has been received!</div>
+      </div>
+      <div class="error-message w-form-fail">
+        <div>Oops! Something went wrong while submitting the form.</div>
+      </div>
+    </div>
+  </div>
+  <div class="section footer wf-section">
+    <div class="container-5 w-container">
+      <div class="footer-holder">
+        <p class="paragraph-3">McGill University<br>© Andrew Xu, 2022.</p>
+      </div>
+    </div>
+  </div>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=624dd698a63c9fd110c29b77" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="js/webflow.js" type="text/javascript"></script>
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+</body>
+</html>

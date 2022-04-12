@@ -1,0 +1,13 @@
+<p></p>
+<select name="cases" id="cases" [ngModel]="selectedDevice" (ngModelChange)="onChange($event)">
+    <option *ngFor="let case of cases;" value="{{case}}">{{case}}</option>
+  </select>
+  <br><br>
+<table>
+    <tr>
+      <th *ngFor="let header of headers;">{{header}}</th>
+    </tr>
+    <tr *ngFor="let row of rows">
+      <td *ngFor="let data of row.getAllFields();index as i;">{{row.getAllFields()[i]}}</td>
+    </tr>
+  </table>

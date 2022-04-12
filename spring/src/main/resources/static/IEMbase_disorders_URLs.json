@@ -1,0 +1,7320 @@
+{
+  "iemGenes" : [
+ {
+  "id": 1152,
+  "gene": "A4GALT"
+ },
+ {
+  "id": 1635,
+  "gene": "AAGAB"
+ },
+ {
+  "id": 1504,
+  "gene": "AARS1"
+ },
+ {
+  "id": 988,
+  "gene": "AARS2"
+ },
+ {
+  "id": 43,
+  "gene": "AASS"
+ },
+ {
+  "id": 36,
+  "gene": "ABAT"
+ },
+ {
+  "id": 378,
+  "gene": "ABCA1"
+ },
+ {
+  "id": 1435,
+  "gene": "ABCA12"
+ },
+ {
+  "id": 186,
+  "gene": "ABCB11"
+ },
+ {
+  "id": 552,
+  "gene": "ABCB4"
+ },
+ {
+  "id": 1094,
+  "gene": "ABCB6"
+ },
+ {
+  "id": 1239,
+  "gene": "ABCB7"
+ },
+ {
+  "id": 554,
+  "gene": "ABCC2"
+ },
+ {
+  "id": 779,
+  "gene": "ABCC6"
+ },
+ {
+  "id": 1410,
+  "gene": "ABCC6"
+ },
+ {
+  "id": 566,
+  "gene": "ABCC8"
+ },
+ {
+  "id": 1287,
+  "gene": "ABCC8"
+ },
+ {
+  "id": 280,
+  "gene": "ABCD1"
+ },
+ {
+  "id": 659,
+  "gene": "ABCD3"
+ },
+ {
+  "id": 548,
+  "gene": "ABCD4"
+ },
+ {
+  "id": 508,
+  "gene": "ABCG5"
+ },
+ {
+  "id": 1276,
+  "gene": "ABCG8"
+ },
+ {
+  "id": 765,
+  "gene": "ABHD12"
+ },
+ {
+  "id": 2018,
+  "gene": "ABHD16A"
+ },
+ {
+  "id": 753,
+  "gene": "ABHD5"
+ },
+ {
+  "id": 1204,
+  "gene": "ACACA"
+ },
+ {
+  "id": 1205,
+  "gene": "ACACB"
+ },
+ {
+  "id": 135,
+  "gene": "ACAD8"
+ },
+ {
+  "id": 438,
+  "gene": "ACAD9"
+ },
+ {
+  "id": 1203,
+  "gene": "ACADL"
+ },
+ {
+  "id": 234,
+  "gene": "ACADM"
+ },
+ {
+  "id": 235,
+  "gene": "ACADS"
+ },
+ {
+  "id": 63,
+  "gene": "ACADSB"
+ },
+ {
+  "id": 231,
+  "gene": "ACADVL"
+ },
+ {
+  "id": 1853,
+  "gene": "ACAN"
+ },
+ {
+  "id": 1854,
+  "gene": "ACAN"
+ },
+ {
+  "id": 1855,
+  "gene": "ACAN"
+ },
+ {
+  "id": 269,
+  "gene": "ACAT1"
+ },
+ {
+  "id": 270,
+  "gene": "ACAT2"
+ },
+ {
+  "id": 1229,
+  "gene": "ACBD5"
+ },
+ {
+  "id": 1210,
+  "gene": "ACER3"
+ },
+ {
+  "id": 1165,
+  "gene": "ACMSD"
+ },
+ {
+  "id": 919,
+  "gene": "ACO2"
+ },
+ {
+  "id": 273,
+  "gene": "ACOX1"
+ },
+ {
+  "id": 660,
+  "gene": "ACOX2"
+ },
+ {
+  "id": 577,
+  "gene": "ACSF3"
+ },
+ {
+  "id": 748,
+  "gene": "ACSL4"
+ },
+ {
+  "id": 1980,
+  "gene": "ACTA2"
+ },
+ {
+  "id": 1981,
+  "gene": "ACTA2"
+ },
+ {
+  "id": 1982,
+  "gene": "ACTA2"
+ },
+ {
+  "id": 801,
+  "gene": "ACY1"
+ },
+ {
+  "id": 142,
+  "gene": "ADA"
+ },
+ {
+  "id": 1478,
+  "gene": "ADA"
+ },
+ {
+  "id": 790,
+  "gene": "ADA2"
+ },
+ {
+  "id": 1983,
+  "gene": "ADAMTS10"
+ },
+ {
+  "id": 1984,
+  "gene": "ADAMTS2"
+ },
+ {
+  "id": 1985,
+  "gene": "ADAMTSL4"
+ },
+ {
+  "id": 1986,
+  "gene": "ADAMTSL4"
+ },
+ {
+  "id": 775,
+  "gene": "ADAR"
+ },
+ {
+  "id": 1407,
+  "gene": "ADAR"
+ },
+ {
+  "id": 1482,
+  "gene": "ADARB1"
+ },
+ {
+  "id": 1493,
+  "gene": "ADAT3"
+ },
+ {
+  "id": 1755,
+  "gene": "ADCK2"
+ },
+ {
+  "id": 549,
+  "gene": "ADK"
+ },
+ {
+  "id": 140,
+  "gene": "ADSL"
+ },
+ {
+  "id": 1480,
+  "gene": "ADSS1"
+ },
+ {
+  "id": 1024,
+  "gene": "AFG3L2"
+ },
+ {
+  "id": 258,
+  "gene": "AGA"
+ },
+ {
+  "id": 1010,
+  "gene": "AGK"
+ },
+ {
+  "id": 487,
+  "gene": "AGL"
+ },
+ {
+  "id": 1472,
+  "gene": "AGMO"
+ },
+ {
+  "id": 749,
+  "gene": "AGPAT2"
+ },
+ {
+  "id": 279,
+  "gene": "AGPS"
+ },
+ {
+  "id": 1883,
+  "gene": "AGRN"
+ },
+ {
+  "id": 96,
+  "gene": "AGXT"
+ },
+ {
+  "id": 811,
+  "gene": "AGXT2"
+ },
+ {
+  "id": 26,
+  "gene": "AHCY"
+ },
+ {
+  "id": 785,
+  "gene": "AICDA"
+ },
+ {
+  "id": 442,
+  "gene": "AIFM1"
+ },
+ {
+  "id": 1523,
+  "gene": "AIMP1"
+ },
+ {
+  "id": 1524,
+  "gene": "AIMP2"
+ },
+ {
+  "id": 791,
+  "gene": "AK1"
+ },
+ {
+  "id": 792,
+  "gene": "AK2"
+ },
+ {
+  "id": 1232,
+  "gene": "AK7"
+ },
+ {
+  "id": 555,
+  "gene": "AKR1C2"
+ },
+ {
+  "id": 180,
+  "gene": "AKR1D1"
+ },
+ {
+  "id": 905,
+  "gene": "AKT2"
+ },
+ {
+  "id": 1181,
+  "gene": "AKT2"
+ },
+ {
+  "id": 1417,
+  "gene": "AKT3"
+ },
+ {
+  "id": 115,
+  "gene": "ALAD"
+ },
+ {
+  "id": 108,
+  "gene": "ALAS2"
+ },
+ {
+  "id": 110,
+  "gene": "ALAS2"
+ },
+ {
+  "id": 42,
+  "gene": "ALDH18A1"
+ },
+ {
+  "id": 395,
+  "gene": "ALDH18A1"
+ },
+ {
+  "id": 1286,
+  "gene": "ALDH18A1"
+ },
+ {
+  "id": 857,
+  "gene": "ALDH1A3"
+ },
+ {
+  "id": 1351,
+  "gene": "ALDH1B1"
+ },
+ {
+  "id": 1646,
+  "gene": "ALDH1L2"
+ },
+ {
+  "id": 657,
+  "gene": "ALDH3A2"
+ },
+ {
+  "id": 38,
+  "gene": "ALDH4A1"
+ },
+ {
+  "id": 37,
+  "gene": "ALDH5A1"
+ },
+ {
+  "id": 136,
+  "gene": "ALDH6A1"
+ },
+ {
+  "id": 75,
+  "gene": "ALDH7A1"
+ },
+ {
+  "id": 500,
+  "gene": "ALDOA"
+ },
+ {
+  "id": 477,
+  "gene": "ALDOB"
+ },
+ {
+  "id": 329,
+  "gene": "ALG1"
+ },
+ {
+  "id": 383,
+  "gene": "ALG11"
+ },
+ {
+  "id": 325,
+  "gene": "ALG12"
+ },
+ {
+  "id": 605,
+  "gene": "ALG13"
+ },
+ {
+  "id": 1387,
+  "gene": "ALG13"
+ },
+ {
+  "id": 606,
+  "gene": "ALG14"
+ },
+ {
+  "id": 327,
+  "gene": "ALG2"
+ },
+ {
+  "id": 324,
+  "gene": "ALG3"
+ },
+ {
+  "id": 323,
+  "gene": "ALG6"
+ },
+ {
+  "id": 326,
+  "gene": "ALG8"
+ },
+ {
+  "id": 330,
+  "gene": "ALG9"
+ },
+ {
+  "id": 1432,
+  "gene": "ALOX12B"
+ },
+ {
+  "id": 1433,
+  "gene": "ALOXE3"
+ },
+ {
+  "id": 1174,
+  "gene": "ALPI"
+ },
+ {
+  "id": 561,
+  "gene": "ALPL"
+ },
+ {
+  "id": 1379,
+  "gene": "ALS2"
+ },
+ {
+  "id": 1444,
+  "gene": "ALS2"
+ },
+ {
+  "id": 1445,
+  "gene": "ALS2"
+ },
+ {
+  "id": 188,
+  "gene": "AMACR"
+ },
+ {
+  "id": 1884,
+  "gene": "AMBN"
+ },
+ {
+  "id": 1885,
+  "gene": "AMELX"
+ },
+ {
+  "id": 83,
+  "gene": "AMN"
+ },
+ {
+  "id": 144,
+  "gene": "AMPD1"
+ },
+ {
+  "id": 788,
+  "gene": "AMPD2"
+ },
+ {
+  "id": 789,
+  "gene": "AMPD3"
+ },
+ {
+  "id": 1254,
+  "gene": "AMT"
+ },
+ {
+  "id": 374,
+  "gene": "ANGPTL3"
+ },
+ {
+  "id": 1647,
+  "gene": "AP1B1"
+ },
+ {
+  "id": 2008,
+  "gene": "AP1G1"
+ },
+ {
+  "id": 578,
+  "gene": "AP1S1"
+ },
+ {
+  "id": 1627,
+  "gene": "AP1S2"
+ },
+ {
+  "id": 1628,
+  "gene": "AP2S1"
+ },
+ {
+  "id": 1605,
+  "gene": "AP3B1"
+ },
+ {
+  "id": 1629,
+  "gene": "AP3B2"
+ },
+ {
+  "id": 1613,
+  "gene": "AP3D1"
+ },
+ {
+  "id": 1375,
+  "gene": "AP4B1"
+ },
+ {
+  "id": 1377,
+  "gene": "AP4E1"
+ },
+ {
+  "id": 1376,
+  "gene": "AP4M1"
+ },
+ {
+  "id": 1374,
+  "gene": "AP4S1"
+ },
+ {
+  "id": 1104,
+  "gene": "AP5Z1"
+ },
+ {
+  "id": 379,
+  "gene": "APOA1"
+ },
+ {
+  "id": 1294,
+  "gene": "APOA1"
+ },
+ {
+  "id": 1086,
+  "gene": "APOA5"
+ },
+ {
+  "id": 368,
+  "gene": "APOB"
+ },
+ {
+  "id": 372,
+  "gene": "APOB"
+ },
+ {
+  "id": 505,
+  "gene": "APOC2"
+ },
+ {
+  "id": 1087,
+  "gene": "APOC3"
+ },
+ {
+  "id": 507,
+  "gene": "APOE"
+ },
+ {
+  "id": 1292,
+  "gene": "APOE"
+ },
+ {
+  "id": 1293,
+  "gene": "APOE"
+ },
+ {
+  "id": 1580,
+  "gene": "APOO"
+ },
+ {
+  "id": 937,
+  "gene": "APOPT1"
+ },
+ {
+  "id": 904,
+  "gene": "APPL1"
+ },
+ {
+  "id": 146,
+  "gene": "APRT"
+ },
+ {
+  "id": 257,
+  "gene": "APTX"
+ },
+ {
+  "id": 1046,
+  "gene": "AQP7"
+ },
+ {
+  "id": 129,
+  "gene": "AR"
+ },
+ {
+  "id": 1295,
+  "gene": "AR"
+ },
+ {
+  "id": 1587,
+  "gene": "ARCN1"
+ },
+ {
+  "id": 1626,
+  "gene": "ARFGEF2"
+ },
+ {
+  "id": 16,
+  "gene": "ARG1"
+ },
+ {
+  "id": 290,
+  "gene": "ARSA"
+ },
+ {
+  "id": 249,
+  "gene": "ARSB"
+ },
+ {
+  "id": 1323,
+  "gene": "ARSG"
+ },
+ {
+  "id": 2017,
+  "gene": "ARSK"
+ },
+ {
+  "id": 297,
+  "gene": "ASAH1"
+ },
+ {
+  "id": 1297,
+  "gene": "ASAH1"
+ },
+ {
+  "id": 15,
+  "gene": "ASL"
+ },
+ {
+  "id": 830,
+  "gene": "ASNS"
+ },
+ {
+  "id": 164,
+  "gene": "ASPA"
+ },
+ {
+  "id": 1856,
+  "gene": "ASPN"
+ },
+ {
+  "id": 1857,
+  "gene": "ASPN"
+ },
+ {
+  "id": 14,
+  "gene": "ASS1"
+ },
+ {
+  "id": 1235,
+  "gene": "ATAD1"
+ },
+ {
+  "id": 1032,
+  "gene": "ATAD3A"
+ },
+ {
+  "id": 1217,
+  "gene": "ATG5"
+ },
+ {
+  "id": 1768,
+  "gene": "ATG7"
+ },
+ {
+  "id": 141,
+  "gene": "ATIC"
+ },
+ {
+  "id": 558,
+  "gene": "ATP13A2"
+ },
+ {
+  "id": 1774,
+  "gene": "ATP13A3"
+ },
+ {
+  "id": 1340,
+  "gene": "ATP1A1"
+ },
+ {
+  "id": 739,
+  "gene": "ATP5F1A"
+ },
+ {
+  "id": 939,
+  "gene": "ATP5F1D"
+ },
+ {
+  "id": 740,
+  "gene": "ATP5F1E"
+ },
+ {
+  "id": 1290,
+  "gene": "ATP5MD"
+ },
+ {
+  "id": 1709,
+  "gene": "ATP5PO"
+ },
+ {
+  "id": 635,
+  "gene": "ATP6AP1"
+ },
+ {
+  "id": 1157,
+  "gene": "ATP6AP2"
+ },
+ {
+  "id": 346,
+  "gene": "ATP6V0A2"
+ },
+ {
+  "id": 636,
+  "gene": "ATP6V1A"
+ },
+ {
+  "id": 637,
+  "gene": "ATP6V1E1"
+ },
+ {
+  "id": 199,
+  "gene": "ATP7A"
+ },
+ {
+  "id": 200,
+  "gene": "ATP7A"
+ },
+ {
+  "id": 533,
+  "gene": "ATP7A"
+ },
+ {
+  "id": 201,
+  "gene": "ATP7B"
+ },
+ {
+  "id": 1247,
+  "gene": "ATP8A2"
+ },
+ {
+  "id": 185,
+  "gene": "ATP8B1"
+ },
+ {
+  "id": 1767,
+  "gene": "ATP9A"
+ },
+ {
+  "id": 738,
+  "gene": "ATPAF2"
+ },
+ {
+  "id": 58,
+  "gene": "AUH"
+ },
+ {
+  "id": 1121,
+  "gene": "B3GALNT2"
+ },
+ {
+  "id": 1126,
+  "gene": "B3GALT6"
+ },
+ {
+  "id": 1127,
+  "gene": "B3GAT3"
+ },
+ {
+  "id": 359,
+  "gene": "B3GLCT"
+ },
+ {
+  "id": 1150,
+  "gene": "B4GALNT1"
+ },
+ {
+  "id": 338,
+  "gene": "B4GALT1"
+ },
+ {
+  "id": 349,
+  "gene": "B4GALT7"
+ },
+ {
+  "id": 1124,
+  "gene": "B4GAT1"
+ },
+ {
+  "id": 187,
+  "gene": "BAAT"
+ },
+ {
+  "id": 1202,
+  "gene": "BBOX1"
+ },
+ {
+  "id": 1619,
+  "gene": "BCAP31"
+ },
+ {
+  "id": 134,
+  "gene": "BCAT2"
+ },
+ {
+  "id": 55,
+  "gene": "BCKDHA"
+ },
+ {
+  "id": 1251,
+  "gene": "BCKDHB"
+ },
+ {
+  "id": 664,
+  "gene": "BCKDK"
+ },
+ {
+  "id": 849,
+  "gene": "BCO1"
+ },
+ {
+  "id": 208,
+  "gene": "BCS1L"
+ },
+ {
+  "id": 1858,
+  "gene": "BGN"
+ },
+ {
+  "id": 1859,
+  "gene": "BGN"
+ },
+ {
+  "id": 903,
+  "gene": "BLK"
+ },
+ {
+  "id": 1611,
+  "gene": "BLOC1S3"
+ },
+ {
+  "id": 1612,
+  "gene": "BLOC1S6"
+ },
+ {
+  "id": 1098,
+  "gene": "BLVRA"
+ },
+ {
+  "id": 1649,
+  "gene": "BMP6"
+ },
+ {
+  "id": 1886,
+  "gene": "BMPER"
+ },
+ {
+  "id": 1545,
+  "gene": "BMS1"
+ },
+ {
+  "id": 839,
+  "gene": "BOLA3"
+ },
+ {
+  "id": 1752,
+  "gene": "BPGM"
+ },
+ {
+  "id": 1729,
+  "gene": "BPNT2"
+ },
+ {
+  "id": 1318,
+  "gene": "BSCL2"
+ },
+ {
+  "id": 1319,
+  "gene": "BSCL2"
+ },
+ {
+  "id": 93,
+  "gene": "BTD"
+ },
+ {
+  "id": 443,
+  "gene": "C12ORF65"
+ },
+ {
+  "id": 1137,
+  "gene": "C1GALT1C1"
+ },
+ {
+  "id": 1034,
+  "gene": "C1QBP"
+ },
+ {
+  "id": 1769,
+  "gene": "C2orf69"
+ },
+ {
+  "id": 656,
+  "gene": "CA5A"
+ },
+ {
+  "id": 1419,
+  "gene": "CACNA1C"
+ },
+ {
+  "id": 1420,
+  "gene": "CACNA1D"
+ },
+ {
+  "id": 623,
+  "gene": "CAD"
+ },
+ {
+  "id": 1133,
+  "gene": "CANT1"
+ },
+ {
+  "id": 1449,
+  "gene": "CANT1"
+ },
+ {
+  "id": 1508,
+  "gene": "CARS1"
+ },
+ {
+  "id": 991,
+  "gene": "CARS2"
+ },
+ {
+  "id": 1117,
+  "gene": "CAT"
+ },
+ {
+  "id": 80,
+  "gene": "CBLIF"
+ },
+ {
+  "id": 27,
+  "gene": "CBS"
+ },
+ {
+  "id": 593,
+  "gene": "CCDC115"
+ },
+ {
+  "id": 1648,
+  "gene": "CCS"
+ },
+ {
+  "id": 92,
+  "gene": "CD320"
+ },
+ {
+  "id": 1187,
+  "gene": "CEP89"
+ },
+ {
+  "id": 1208,
+  "gene": "CERS1"
+ },
+ {
+  "id": 1209,
+  "gene": "CERS2"
+ },
+ {
+  "id": 1051,
+  "gene": "CERS3"
+ },
+ {
+  "id": 375,
+  "gene": "CETP"
+ },
+ {
+  "id": 1655,
+  "gene": "CHAT"
+ },
+ {
+  "id": 1346,
+  "gene": "CHCHD10"
+ },
+ {
+  "id": 1581,
+  "gene": "CHCHD2"
+ },
+ {
+  "id": 1047,
+  "gene": "CHKB"
+ },
+ {
+  "id": 1383,
+  "gene": "CHMP2B"
+ },
+ {
+  "id": 1447,
+  "gene": "CHMP2B"
+ },
+ {
+  "id": 1657,
+  "gene": "CHRNE"
+ },
+ {
+  "id": 1230,
+  "gene": "CHST11"
+ },
+ {
+  "id": 1130,
+  "gene": "CHST14"
+ },
+ {
+  "id": 1129,
+  "gene": "CHST3"
+ },
+ {
+  "id": 1132,
+  "gene": "CHST6"
+ },
+ {
+  "id": 385,
+  "gene": "CHSY1"
+ },
+ {
+  "id": 1887,
+  "gene": "CILP;THBS2"
+ },
+ {
+  "id": 1313,
+  "gene": "CLCN2"
+ },
+ {
+  "id": 885,
+  "gene": "CLDN10"
+ },
+ {
+  "id": 886,
+  "gene": "CLDN16"
+ },
+ {
+  "id": 887,
+  "gene": "CLDN19"
+ },
+ {
+  "id": 307,
+  "gene": "CLN3"
+ },
+ {
+  "id": 310,
+  "gene": "CLN5"
+ },
+ {
+  "id": 308,
+  "gene": "CLN6"
+ },
+ {
+  "id": 311,
+  "gene": "CLN6"
+ },
+ {
+  "id": 313,
+  "gene": "CLN8"
+ },
+ {
+  "id": 382,
+  "gene": "CLN8"
+ },
+ {
+  "id": 1488,
+  "gene": "CLP1"
+ },
+ {
+  "id": 1018,
+  "gene": "CLPB"
+ },
+ {
+  "id": 1019,
+  "gene": "CLPP"
+ },
+ {
+  "id": 1249,
+  "gene": "CLPX"
+ },
+ {
+  "id": 1684,
+  "gene": "CLTC"
+ },
+ {
+  "id": 1188,
+  "gene": "CMPK2"
+ },
+ {
+  "id": 53,
+  "gene": "CNDP1"
+ },
+ {
+  "id": 888,
+  "gene": "CNNM2"
+ },
+ {
+  "id": 719,
+  "gene": "COA3"
+ },
+ {
+  "id": 720,
+  "gene": "COA5"
+ },
+ {
+  "id": 721,
+  "gene": "COA6"
+ },
+ {
+  "id": 722,
+  "gene": "COA7"
+ },
+ {
+  "id": 620,
+  "gene": "COASY"
+ },
+ {
+  "id": 1888,
+  "gene": "COCH"
+ },
+ {
+  "id": 1889,
+  "gene": "COCH"
+ },
+ {
+  "id": 344,
+  "gene": "COG1"
+ },
+ {
+  "id": 614,
+  "gene": "COG2"
+ },
+ {
+  "id": 615,
+  "gene": "COG4"
+ },
+ {
+  "id": 1321,
+  "gene": "COG4"
+ },
+ {
+  "id": 388,
+  "gene": "COG5"
+ },
+ {
+  "id": 389,
+  "gene": "COG6"
+ },
+ {
+  "id": 343,
+  "gene": "COG7"
+ },
+ {
+  "id": 345,
+  "gene": "COG8"
+ },
+ {
+  "id": 1831,
+  "gene": "COL10A1"
+ },
+ {
+  "id": 1835,
+  "gene": "COL11A1"
+ },
+ {
+  "id": 1836,
+  "gene": "COL11A1"
+ },
+ {
+  "id": 1837,
+  "gene": "COL11A1"
+ },
+ {
+  "id": 1838,
+  "gene": "COL11A1"
+ },
+ {
+  "id": 1839,
+  "gene": "COL11A2"
+ },
+ {
+  "id": 1840,
+  "gene": "COL11A2"
+ },
+ {
+  "id": 1841,
+  "gene": "COL11A2"
+ },
+ {
+  "id": 1842,
+  "gene": "COL11A2"
+ },
+ {
+  "id": 1844,
+  "gene": "COL11A2"
+ },
+ {
+  "id": 1845,
+  "gene": "COL12A1"
+ },
+ {
+  "id": 1846,
+  "gene": "COL12A1"
+ },
+ {
+  "id": 1847,
+  "gene": "COL13A1"
+ },
+ {
+  "id": 1848,
+  "gene": "COL15A1;COL18A1"
+ },
+ {
+  "id": 1849,
+  "gene": "COL17A1"
+ },
+ {
+  "id": 1850,
+  "gene": "COL17A1"
+ },
+ {
+  "id": 1776,
+  "gene": "COL1A1"
+ },
+ {
+  "id": 1777,
+  "gene": "COL1A1"
+ },
+ {
+  "id": 1781,
+  "gene": "COL1A1"
+ },
+ {
+  "id": 1778,
+  "gene": "COL1A1;COL1A2"
+ },
+ {
+  "id": 1779,
+  "gene": "COL1A1;COL1A2"
+ },
+ {
+  "id": 1780,
+  "gene": "COL1A1;COL1A2"
+ },
+ {
+  "id": 1782,
+  "gene": "COL1A1;COL1A2"
+ },
+ {
+  "id": 1783,
+  "gene": "COL1A2"
+ },
+ {
+  "id": 1784,
+  "gene": "COL1A2"
+ },
+ {
+  "id": 1785,
+  "gene": "COL1A2"
+ },
+ {
+  "id": 1851,
+  "gene": "COL25A1"
+ },
+ {
+  "id": 1852,
+  "gene": "COL27A1"
+ },
+ {
+  "id": 1786,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1787,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1788,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1789,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1790,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1791,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1792,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1793,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1794,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1795,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1796,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1797,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1798,
+  "gene": "COL2A1"
+ },
+ {
+  "id": 1775,
+  "gene": "COL3A1"
+ },
+ {
+  "id": 1799,
+  "gene": "COL3A1"
+ },
+ {
+  "id": 1800,
+  "gene": "COL4A1"
+ },
+ {
+  "id": 1801,
+  "gene": "COL4A1"
+ },
+ {
+  "id": 1802,
+  "gene": "COL4A1"
+ },
+ {
+  "id": 1803,
+  "gene": "COL4A2"
+ },
+ {
+  "id": 1805,
+  "gene": "COL4A3"
+ },
+ {
+  "id": 1804,
+  "gene": "COL4A3;COL4A4"
+ },
+ {
+  "id": 1806,
+  "gene": "COL4A3;COL4A4"
+ },
+ {
+  "id": 1056,
+  "gene": "COL4A3BP"
+ },
+ {
+  "id": 1807,
+  "gene": "COL4A5"
+ },
+ {
+  "id": 1808,
+  "gene": "COL4A6"
+ },
+ {
+  "id": 1809,
+  "gene": "COL4A6"
+ },
+ {
+  "id": 1810,
+  "gene": "COL5A1"
+ },
+ {
+  "id": 1811,
+  "gene": "COL5A1"
+ },
+ {
+  "id": 1812,
+  "gene": "COL5A2"
+ },
+ {
+  "id": 1813,
+  "gene": "COL6A1;COL6A2;COL6A3"
+ },
+ {
+  "id": 1815,
+  "gene": "COL6A1;COL6A2;COL6A3"
+ },
+ {
+  "id": 1816,
+  "gene": "COL6A2"
+ },
+ {
+  "id": 1818,
+  "gene": "COL6A3"
+ },
+ {
+  "id": 1819,
+  "gene": "COL7A1"
+ },
+ {
+  "id": 1820,
+  "gene": "COL7A1"
+ },
+ {
+  "id": 1821,
+  "gene": "COL7A1"
+ },
+ {
+  "id": 1822,
+  "gene": "COL8A2"
+ },
+ {
+  "id": 1823,
+  "gene": "COL8A2"
+ },
+ {
+  "id": 1824,
+  "gene": "COL9A1"
+ },
+ {
+  "id": 1825,
+  "gene": "COL9A1"
+ },
+ {
+  "id": 1827,
+  "gene": "COL9A2"
+ },
+ {
+  "id": 1828,
+  "gene": "COL9A2"
+ },
+ {
+  "id": 1830,
+  "gene": "COL9A3"
+ },
+ {
+  "id": 1890,
+  "gene": "COLQ"
+ },
+ {
+  "id": 1891,
+  "gene": "COMP"
+ },
+ {
+  "id": 1892,
+  "gene": "COMP"
+ },
+ {
+  "id": 1893,
+  "gene": "COMP"
+ },
+ {
+  "id": 1585,
+  "gene": "COPA"
+ },
+ {
+  "id": 1586,
+  "gene": "COPB2"
+ },
+ {
+  "id": 254,
+  "gene": "COQ2"
+ },
+ {
+  "id": 1038,
+  "gene": "COQ4"
+ },
+ {
+  "id": 1201,
+  "gene": "COQ5"
+ },
+ {
+  "id": 531,
+  "gene": "COQ6"
+ },
+ {
+  "id": 1039,
+  "gene": "COQ7"
+ },
+ {
+  "id": 256,
+  "gene": "COQ8A"
+ },
+ {
+  "id": 1040,
+  "gene": "COQ8B"
+ },
+ {
+  "id": 255,
+  "gene": "COQ9"
+ },
+ {
+  "id": 723,
+  "gene": "COX10"
+ },
+ {
+  "id": 724,
+  "gene": "COX14"
+ },
+ {
+  "id": 725,
+  "gene": "COX15"
+ },
+ {
+  "id": 1690,
+  "gene": "COX16"
+ },
+ {
+  "id": 726,
+  "gene": "COX20"
+ },
+ {
+  "id": 1359,
+  "gene": "COX4I1"
+ },
+ {
+  "id": 730,
+  "gene": "COX4I2"
+ },
+ {
+  "id": 1360,
+  "gene": "COX5A"
+ },
+ {
+  "id": 731,
+  "gene": "COX6A1"
+ },
+ {
+  "id": 1708,
+  "gene": "COX6A2"
+ },
+ {
+  "id": 732,
+  "gene": "COX6B1"
+ },
+ {
+  "id": 733,
+  "gene": "COX7B"
+ },
+ {
+  "id": 734,
+  "gene": "COX8A"
+ },
+ {
+  "id": 872,
+  "gene": "CP"
+ },
+ {
+  "id": 113,
+  "gene": "CPOX"
+ },
+ {
+  "id": 1296,
+  "gene": "CPOX"
+ },
+ {
+  "id": 11,
+  "gene": "CPS1"
+ },
+ {
+  "id": 228,
+  "gene": "CPT1A"
+ },
+ {
+  "id": 673,
+  "gene": "CPT1C"
+ },
+ {
+  "id": 230,
+  "gene": "CPT2"
+ },
+ {
+  "id": 671,
+  "gene": "CRAT"
+ },
+ {
+  "id": 1762,
+  "gene": "CREB3L3"
+ },
+ {
+  "id": 1894,
+  "gene": "CRELD1"
+ },
+ {
+  "id": 641,
+  "gene": "CRPPA"
+ },
+ {
+  "id": 1218,
+  "gene": "CSGALNACT1"
+ },
+ {
+  "id": 28,
+  "gene": "CTH"
+ },
+ {
+  "id": 1895,
+  "gene": "CTHRC1"
+ },
+ {
+  "id": 525,
+  "gene": "CTNS"
+ },
+ {
+  "id": 1476,
+  "gene": "CTPS1"
+ },
+ {
+  "id": 319,
+  "gene": "CTSA"
+ },
+ {
+  "id": 1311,
+  "gene": "CTSB"
+ },
+ {
+  "id": 1110,
+  "gene": "CTSC"
+ },
+ {
+  "id": 1448,
+  "gene": "CTSC"
+ },
+ {
+  "id": 315,
+  "gene": "CTSD"
+ },
+ {
+  "id": 559,
+  "gene": "CTSF"
+ },
+ {
+  "id": 1109,
+  "gene": "CTSK"
+ },
+ {
+  "id": 82,
+  "gene": "CUBN"
+ },
+ {
+  "id": 1316,
+  "gene": "CYB561"
+ },
+ {
+  "id": 1096,
+  "gene": "CYB5A"
+ },
+ {
+  "id": 1095,
+  "gene": "CYB5R3"
+ },
+ {
+  "id": 745,
+  "gene": "CYC1"
+ },
+ {
+  "id": 746,
+  "gene": "CYCS"
+ },
+ {
+  "id": 510,
+  "gene": "CYP11A1"
+ },
+ {
+  "id": 120,
+  "gene": "CYP11B1"
+ },
+ {
+  "id": 122,
+  "gene": "CYP11B1"
+ },
+ {
+  "id": 1088,
+  "gene": "CYP11B2"
+ },
+ {
+  "id": 1281,
+  "gene": "CYP11B2"
+ },
+ {
+  "id": 117,
+  "gene": "CYP17A1"
+ },
+ {
+  "id": 125,
+  "gene": "CYP17A1"
+ },
+ {
+  "id": 128,
+  "gene": "CYP19A1"
+ },
+ {
+  "id": 1263,
+  "gene": "CYP19A1"
+ },
+ {
+  "id": 119,
+  "gene": "CYP21A2"
+ },
+ {
+  "id": 862,
+  "gene": "CYP24A1"
+ },
+ {
+  "id": 1222,
+  "gene": "CYP26B1"
+ },
+ {
+  "id": 1310,
+  "gene": "CYP26C1"
+ },
+ {
+  "id": 183,
+  "gene": "CYP27A1"
+ },
+ {
+  "id": 859,
+  "gene": "CYP27B1"
+ },
+ {
+  "id": 860,
+  "gene": "CYP2R1"
+ },
+ {
+  "id": 764,
+  "gene": "CYP2U1"
+ },
+ {
+  "id": 1052,
+  "gene": "CYP4F22"
+ },
+ {
+  "id": 318,
+  "gene": "CYP51A1"
+ },
+ {
+  "id": 182,
+  "gene": "CYP7A1"
+ },
+ {
+  "id": 181,
+  "gene": "CYP7B1"
+ },
+ {
+  "id": 166,
+  "gene": "D2HGDH"
+ },
+ {
+  "id": 1490,
+  "gene": "DALRD3"
+ },
+ {
+  "id": 1507,
+  "gene": "DARS1"
+ },
+ {
+  "id": 446,
+  "gene": "DARS2"
+ },
+ {
+  "id": 101,
+  "gene": "DBH"
+ },
+ {
+  "id": 1252,
+  "gene": "DBT"
+ },
+ {
+  "id": 1860,
+  "gene": "DCN"
+ },
+ {
+  "id": 1380,
+  "gene": "DCTN1"
+ },
+ {
+  "id": 1446,
+  "gene": "DCTN1"
+ },
+ {
+  "id": 895,
+  "gene": "DCXR"
+ },
+ {
+  "id": 100,
+  "gene": "DDC"
+ },
+ {
+  "id": 761,
+  "gene": "DDHD1"
+ },
+ {
+  "id": 762,
+  "gene": "DDHD2"
+ },
+ {
+  "id": 607,
+  "gene": "DDOST"
+ },
+ {
+  "id": 1409,
+  "gene": "DDX58"
+ },
+ {
+  "id": 1458,
+  "gene": "DEGS1"
+ },
+ {
+  "id": 752,
+  "gene": "DGAT1"
+ },
+ {
+  "id": 1048,
+  "gene": "DGKE"
+ },
+ {
+  "id": 143,
+  "gene": "DGUOK"
+ },
+ {
+  "id": 195,
+  "gene": "DHCR24"
+ },
+ {
+  "id": 192,
+  "gene": "DHCR7"
+ },
+ {
+  "id": 602,
+  "gene": "DHDDS"
+ },
+ {
+  "id": 73,
+  "gene": "DHFR"
+ },
+ {
+  "id": 155,
+  "gene": "DHODH"
+ },
+ {
+  "id": 655,
+  "gene": "DHTKD1"
+ },
+ {
+  "id": 1285,
+  "gene": "DHTKD1"
+ },
+ {
+  "id": 1467,
+  "gene": "DIABLO"
+ },
+ {
+  "id": 1423,
+  "gene": "DIS3L2"
+ },
+ {
+  "id": 1537,
+  "gene": "DKC1"
+ },
+ {
+  "id": 222,
+  "gene": "DLAT"
+ },
+ {
+  "id": 223,
+  "gene": "DLD"
+ },
+ {
+  "id": 1393,
+  "gene": "DLST"
+ },
+ {
+  "id": 211,
+  "gene": "DMGDH"
+ },
+ {
+  "id": 1896,
+  "gene": "DMP1"
+ },
+ {
+  "id": 945,
+  "gene": "DNA2"
+ },
+ {
+  "id": 588,
+  "gene": "DNAJC12"
+ },
+ {
+  "id": 1012,
+  "gene": "DNAJC19"
+ },
+ {
+  "id": 1575,
+  "gene": "DNAJC21"
+ },
+ {
+  "id": 1759,
+  "gene": "DNAJC30"
+ },
+ {
+  "id": 309,
+  "gene": "DNAJC5"
+ },
+ {
+  "id": 1683,
+  "gene": "DNAJC6"
+ },
+ {
+  "id": 1663,
+  "gene": "DNM1"
+ },
+ {
+  "id": 282,
+  "gene": "DNM1L"
+ },
+ {
+  "id": 1454,
+  "gene": "DNM2"
+ },
+ {
+  "id": 1455,
+  "gene": "DNM2"
+ },
+ {
+  "id": 1664,
+  "gene": "DNM2"
+ },
+ {
+  "id": 342,
+  "gene": "DOLK"
+ },
+ {
+  "id": 328,
+  "gene": "DPAGT1"
+ },
+ {
+  "id": 139,
+  "gene": "DPEP1"
+ },
+ {
+  "id": 336,
+  "gene": "DPM1"
+ },
+ {
+  "id": 604,
+  "gene": "DPM2"
+ },
+ {
+  "id": 387,
+  "gene": "DPM3"
+ },
+ {
+  "id": 159,
+  "gene": "DPYD"
+ },
+ {
+  "id": 268,
+  "gene": "DPYS"
+ },
+ {
+  "id": 1131,
+  "gene": "DSE"
+ },
+ {
+  "id": 1897,
+  "gene": "DSPP"
+ },
+ {
+  "id": 1898,
+  "gene": "DSPP"
+ },
+ {
+  "id": 1899,
+  "gene": "DSPP"
+ },
+ {
+  "id": 1900,
+  "gene": "DSPP"
+ },
+ {
+  "id": 1610,
+  "gene": "DTNBP1"
+ },
+ {
+  "id": 1475,
+  "gene": "DTYMK"
+ },
+ {
+  "id": 1364,
+  "gene": "DUT"
+ },
+ {
+  "id": 1640,
+  "gene": "DYM"
+ },
+ {
+  "id": 1662,
+  "gene": "DYNC1H1"
+ },
+ {
+  "id": 992,
+  "gene": "EARS2"
+ },
+ {
+  "id": 193,
+  "gene": "EBP"
+ },
+ {
+  "id": 514,
+  "gene": "EBP"
+ },
+ {
+  "id": 665,
+  "gene": "ECHS1"
+ },
+ {
+  "id": 1901,
+  "gene": "ECM1"
+ },
+ {
+  "id": 1832,
+  "gene": "EDEM3"
+ },
+ {
+  "id": 1902,
+  "gene": "EFEMP1"
+ },
+ {
+  "id": 1903,
+  "gene": "EFEMP2"
+ },
+ {
+  "id": 1574,
+  "gene": "EFL1"
+ },
+ {
+  "id": 1178,
+  "gene": "EGF"
+ },
+ {
+  "id": 1113,
+  "gene": "EHHADH"
+ },
+ {
+  "id": 1576,
+  "gene": "EIF6"
+ },
+ {
+  "id": 951,
+  "gene": "ELAC2"
+ },
+ {
+  "id": 1904,
+  "gene": "ELN"
+ },
+ {
+  "id": 1905,
+  "gene": "ELN"
+ },
+ {
+  "id": 1044,
+  "gene": "ELOVL1"
+ },
+ {
+  "id": 1244,
+  "gene": "ELOVL4"
+ },
+ {
+  "id": 1245,
+  "gene": "ELOVL4"
+ },
+ {
+  "id": 1688,
+  "gene": "ELOVL4"
+ },
+ {
+  "id": 1246,
+  "gene": "ELOVL5"
+ },
+ {
+  "id": 1494,
+  "gene": "ELP1"
+ },
+ {
+  "id": 1495,
+  "gene": "ELP2"
+ },
+ {
+  "id": 1618,
+  "gene": "EMC1"
+ },
+ {
+  "id": 1544,
+  "gene": "EMG1"
+ },
+ {
+  "id": 501,
+  "gene": "ENO3"
+ },
+ {
+  "id": 780,
+  "gene": "ENPP1"
+ },
+ {
+  "id": 781,
+  "gene": "ENPP1"
+ },
+ {
+  "id": 1689,
+  "gene": "ENPP1"
+ },
+ {
+  "id": 1483,
+  "gene": "ENTPD1"
+ },
+ {
+  "id": 1139,
+  "gene": "EOGT"
+ },
+ {
+  "id": 1100,
+  "gene": "EPG5"
+ },
+ {
+  "id": 865,
+  "gene": "EPHX1"
+ },
+ {
+  "id": 908,
+  "gene": "EPM2A"
+ },
+ {
+  "id": 1510,
+  "gene": "EPRS1"
+ },
+ {
+  "id": 1344,
+  "gene": "ERAL1"
+ },
+ {
+  "id": 130,
+  "gene": "ESR1"
+ },
+ {
+  "id": 1303,
+  "gene": "ESR2"
+ },
+ {
+  "id": 237,
+  "gene": "ETFA"
+ },
+ {
+  "id": 1257,
+  "gene": "ETFB"
+ },
+ {
+  "id": 239,
+  "gene": "ETFDH"
+ },
+ {
+  "id": 532,
+  "gene": "ETFDH"
+ },
+ {
+  "id": 172,
+  "gene": "ETHE1"
+ },
+ {
+  "id": 347,
+  "gene": "EXT1"
+ },
+ {
+  "id": 348,
+  "gene": "EXT2"
+ },
+ {
+  "id": 1128,
+  "gene": "EXTL3"
+ },
+ {
+  "id": 1906,
+  "gene": "EYS"
+ },
+ {
+  "id": 1054,
+  "gene": "FA2H"
+ },
+ {
+  "id": 1335,
+  "gene": "FAAH2"
+ },
+ {
+  "id": 19,
+  "gene": "FAH"
+ },
+ {
+  "id": 1728,
+  "gene": "FAM20B"
+ },
+ {
+  "id": 1111,
+  "gene": "FAR1"
+ },
+ {
+  "id": 1691,
+  "gene": "FAR1"
+ },
+ {
+  "id": 997,
+  "gene": "FARS2"
+ },
+ {
+  "id": 1516,
+  "gene": "FARSA"
+ },
+ {
+  "id": 1517,
+  "gene": "FARSB"
+ },
+ {
+  "id": 936,
+  "gene": "FASTKD2"
+ },
+ {
+  "id": 1907,
+  "gene": "FBLN1"
+ },
+ {
+  "id": 1908,
+  "gene": "FBLN5"
+ },
+ {
+  "id": 1909,
+  "gene": "FBLN5"
+ },
+ {
+  "id": 1910,
+  "gene": "FBN1"
+ },
+ {
+  "id": 1911,
+  "gene": "FBN1"
+ },
+ {
+  "id": 1912,
+  "gene": "FBN1"
+ },
+ {
+  "id": 1913,
+  "gene": "FBN1"
+ },
+ {
+  "id": 1914,
+  "gene": "FBN1"
+ },
+ {
+  "id": 1915,
+  "gene": "FBN1"
+ },
+ {
+  "id": 1916,
+  "gene": "FBN1"
+ },
+ {
+  "id": 1917,
+  "gene": "FBN1"
+ },
+ {
+  "id": 1918,
+  "gene": "FBN2"
+ },
+ {
+  "id": 1919,
+  "gene": "FBN2"
+ },
+ {
+  "id": 483,
+  "gene": "FBP1"
+ },
+ {
+  "id": 948,
+  "gene": "FBXL4"
+ },
+ {
+  "id": 1331,
+  "gene": "FCSK"
+ },
+ {
+  "id": 1302,
+  "gene": "FDFT1"
+ },
+ {
+  "id": 676,
+  "gene": "FDPS"
+ },
+ {
+  "id": 1168,
+  "gene": "FDX2"
+ },
+ {
+  "id": 1240,
+  "gene": "FDXR"
+ },
+ {
+  "id": 107,
+  "gene": "FECH"
+ },
+ {
+  "id": 1920,
+  "gene": "FGA;FGB;FGG"
+ },
+ {
+  "id": 1987,
+  "gene": "FGFR3"
+ },
+ {
+  "id": 174,
+  "gene": "FH"
+ },
+ {
+  "id": 1260,
+  "gene": "FH"
+ },
+ {
+  "id": 1059,
+  "gene": "FIG4"
+ },
+ {
+  "id": 1060,
+  "gene": "FIG4"
+ },
+ {
+  "id": 1451,
+  "gene": "FIG4"
+ },
+ {
+  "id": 1452,
+  "gene": "FIG4"
+ },
+ {
+  "id": 645,
+  "gene": "FKRP"
+ },
+ {
+  "id": 646,
+  "gene": "FKRP"
+ },
+ {
+  "id": 647,
+  "gene": "FKRP"
+ },
+ {
+  "id": 642,
+  "gene": "FKTN"
+ },
+ {
+  "id": 643,
+  "gene": "FKTN"
+ },
+ {
+  "id": 644,
+  "gene": "FKTN"
+ },
+ {
+  "id": 842,
+  "gene": "FLAD1"
+ },
+ {
+  "id": 1695,
+  "gene": "FLAD1"
+ },
+ {
+  "id": 210,
+  "gene": "FMO3"
+ },
+ {
+  "id": 1988,
+  "gene": "FMR1"
+ },
+ {
+  "id": 1921,
+  "gene": "FN1"
+ },
+ {
+  "id": 1922,
+  "gene": "FN1"
+ },
+ {
+  "id": 71,
+  "gene": "FOLR1"
+ },
+ {
+  "id": 1425,
+  "gene": "FOXA2"
+ },
+ {
+  "id": 683,
+  "gene": "FOXRED1"
+ },
+ {
+  "id": 1923,
+  "gene": "FRAS1"
+ },
+ {
+  "id": 47,
+  "gene": "FTCD"
+ },
+ {
+  "id": 1176,
+  "gene": "FTH1"
+ },
+ {
+  "id": 869,
+  "gene": "FTL"
+ },
+ {
+  "id": 870,
+  "gene": "FTL"
+ },
+ {
+  "id": 871,
+  "gene": "FTL"
+ },
+ {
+  "id": 1491,
+  "gene": "FTSJ1"
+ },
+ {
+  "id": 259,
+  "gene": "FUCA1"
+ },
+ {
+  "id": 1119,
+  "gene": "FUT8"
+ },
+ {
+  "id": 1241,
+  "gene": "FXN"
+ },
+ {
+  "id": 884,
+  "gene": "FXYD2"
+ },
+ {
+  "id": 484,
+  "gene": "G6PC"
+ },
+ {
+  "id": 1154,
+  "gene": "G6PC3"
+ },
+ {
+  "id": 892,
+  "gene": "G6PD"
+ },
+ {
+  "id": 486,
+  "gene": "GAA"
+ },
+ {
+  "id": 818,
+  "gene": "GABBR2"
+ },
+ {
+  "id": 813,
+  "gene": "GABRA1"
+ },
+ {
+  "id": 1162,
+  "gene": "GABRA6"
+ },
+ {
+  "id": 814,
+  "gene": "GABRB1"
+ },
+ {
+  "id": 815,
+  "gene": "GABRB2"
+ },
+ {
+  "id": 816,
+  "gene": "GABRB3"
+ },
+ {
+  "id": 1163,
+  "gene": "GABRD"
+ },
+ {
+  "id": 817,
+  "gene": "GABRG2"
+ },
+ {
+  "id": 1166,
+  "gene": "GAD1"
+ },
+ {
+  "id": 289,
+  "gene": "GALC"
+ },
+ {
+  "id": 475,
+  "gene": "GALE"
+ },
+ {
+  "id": 474,
+  "gene": "GALK1"
+ },
+ {
+  "id": 1362,
+  "gene": "GALM"
+ },
+ {
+  "id": 247,
+  "gene": "GALNS"
+ },
+ {
+  "id": 1577,
+  "gene": "GALNT14"
+ },
+ {
+  "id": 350,
+  "gene": "GALNT3"
+ },
+ {
+  "id": 473,
+  "gene": "GALT"
+ },
+ {
+  "id": 104,
+  "gene": "GAMT"
+ },
+ {
+  "id": 626,
+  "gene": "GANAB"
+ },
+ {
+  "id": 1001,
+  "gene": "GARS"
+ },
+ {
+  "id": 1715,
+  "gene": "GARS1"
+ },
+ {
+  "id": 1093,
+  "gene": "GATA1"
+ },
+ {
+  "id": 1224,
+  "gene": "GATB"
+ },
+ {
+  "id": 1225,
+  "gene": "GATC"
+ },
+ {
+  "id": 105,
+  "gene": "GATM"
+ },
+ {
+  "id": 1220,
+  "gene": "GATM"
+ },
+ {
+  "id": 288,
+  "gene": "GBA"
+ },
+ {
+  "id": 1053,
+  "gene": "GBA2"
+ },
+ {
+  "id": 488,
+  "gene": "GBE1"
+ },
+ {
+  "id": 163,
+  "gene": "GCDH"
+ },
+ {
+  "id": 3,
+  "gene": "GCH1"
+ },
+ {
+  "id": 7,
+  "gene": "GCH1"
+ },
+ {
+  "id": 568,
+  "gene": "GCK"
+ },
+ {
+  "id": 1289,
+  "gene": "GCK"
+ },
+ {
+  "id": 216,
+  "gene": "GCLC"
+ },
+ {
+  "id": 1255,
+  "gene": "GCSH"
+ },
+ {
+  "id": 1005,
+  "gene": "GDAP1"
+ },
+ {
+  "id": 1753,
+  "gene": "GFAP"
+ },
+ {
+  "id": 1014,
+  "gene": "GFER"
+ },
+ {
+  "id": 436,
+  "gene": "GFM1"
+ },
+ {
+  "id": 965,
+  "gene": "GFM2"
+ },
+ {
+  "id": 1153,
+  "gene": "GFPT1"
+ },
+ {
+  "id": 1692,
+  "gene": "GFUS"
+ },
+ {
+  "id": 863,
+  "gene": "GGCX"
+ },
+ {
+  "id": 1216,
+  "gene": "GGPS1"
+ },
+ {
+  "id": 214,
+  "gene": "GGT1"
+ },
+ {
+  "id": 1757,
+  "gene": "GIMAP6"
+ },
+ {
+  "id": 542,
+  "gene": "GK"
+ },
+ {
+  "id": 296,
+  "gene": "GLA"
+ },
+ {
+  "id": 248,
+  "gene": "GLB1"
+ },
+ {
+  "id": 284,
+  "gene": "GLB1"
+ },
+ {
+  "id": 32,
+  "gene": "GLDC"
+ },
+ {
+  "id": 1924,
+  "gene": "GLDN"
+ },
+ {
+  "id": 833,
+  "gene": "GLRA1"
+ },
+ {
+  "id": 834,
+  "gene": "GLRB"
+ },
+ {
+  "id": 1278,
+  "gene": "GLRX5"
+ },
+ {
+  "id": 1167,
+  "gene": "GLS"
+ },
+ {
+  "id": 1363,
+  "gene": "GLS"
+ },
+ {
+  "id": 567,
+  "gene": "GLUD1"
+ },
+ {
+  "id": 41,
+  "gene": "GLUL"
+ },
+ {
+  "id": 565,
+  "gene": "GLYCTK"
+ },
+ {
+  "id": 287,
+  "gene": "GM2A"
+ },
+ {
+  "id": 598,
+  "gene": "GMPPA"
+ },
+ {
+  "id": 599,
+  "gene": "GMPPB"
+ },
+ {
+  "id": 339,
+  "gene": "GNE"
+ },
+ {
+  "id": 1299,
+  "gene": "GNE"
+ },
+ {
+  "id": 25,
+  "gene": "GNMT"
+ },
+ {
+  "id": 278,
+  "gene": "GNPAT"
+ },
+ {
+  "id": 1578,
+  "gene": "GNPNAT1"
+ },
+ {
+  "id": 299,
+  "gene": "GNPTAB"
+ },
+ {
+  "id": 556,
+  "gene": "GNPTAB"
+ },
+ {
+  "id": 300,
+  "gene": "GNPTG"
+ },
+ {
+  "id": 246,
+  "gene": "GNS"
+ },
+ {
+  "id": 1497,
+  "gene": "GON7"
+ },
+ {
+  "id": 1600,
+  "gene": "GORAB"
+ },
+ {
+  "id": 1325,
+  "gene": "GOSR2"
+ },
+ {
+  "id": 1185,
+  "gene": "GOT2"
+ },
+ {
+  "id": 1148,
+  "gene": "GPAA1"
+ },
+ {
+  "id": 1424,
+  "gene": "GPC3"
+ },
+ {
+  "id": 923,
+  "gene": "GPD1"
+ },
+ {
+  "id": 79,
+  "gene": "GPHN"
+ },
+ {
+  "id": 914,
+  "gene": "GPI"
+ },
+ {
+  "id": 1084,
+  "gene": "GPIHBP1"
+ },
+ {
+  "id": 1324,
+  "gene": "GPT2"
+ },
+ {
+  "id": 796,
+  "gene": "GPX4"
+ },
+ {
+  "id": 97,
+  "gene": "GRHPR"
+ },
+ {
+  "id": 1652,
+  "gene": "GRIA2"
+ },
+ {
+  "id": 825,
+  "gene": "GRIA3"
+ },
+ {
+  "id": 826,
+  "gene": "GRIA4"
+ },
+ {
+  "id": 1653,
+  "gene": "GRID2"
+ },
+ {
+  "id": 2010,
+  "gene": "GRIK2"
+ },
+ {
+  "id": 2011,
+  "gene": "GRIK2"
+ },
+ {
+  "id": 821,
+  "gene": "GRIN1"
+ },
+ {
+  "id": 822,
+  "gene": "GRIN2A"
+ },
+ {
+  "id": 823,
+  "gene": "GRIN2B"
+ },
+ {
+  "id": 824,
+  "gene": "GRIN2D"
+ },
+ {
+  "id": 827,
+  "gene": "GRM1"
+ },
+ {
+  "id": 828,
+  "gene": "GRM1"
+ },
+ {
+  "id": 829,
+  "gene": "GRM6"
+ },
+ {
+  "id": 557,
+  "gene": "GRN"
+ },
+ {
+  "id": 795,
+  "gene": "GSR"
+ },
+ {
+  "id": 217,
+  "gene": "GSS"
+ },
+ {
+  "id": 512,
+  "gene": "GSS"
+ },
+ {
+  "id": 803,
+  "gene": "GSTZ1"
+ },
+ {
+  "id": 955,
+  "gene": "GTPBP3"
+ },
+ {
+  "id": 1345,
+  "gene": "GUF1"
+ },
+ {
+  "id": 250,
+  "gene": "GUSB"
+ },
+ {
+  "id": 496,
+  "gene": "GYG1"
+ },
+ {
+  "id": 1701,
+  "gene": "GYG2"
+ },
+ {
+  "id": 498,
+  "gene": "GYS1"
+ },
+ {
+  "id": 497,
+  "gene": "GYS2"
+ },
+ {
+  "id": 124,
+  "gene": "H6PD"
+ },
+ {
+  "id": 651,
+  "gene": "HAAO"
+ },
+ {
+  "id": 1206,
+  "gene": "HACD1"
+ },
+ {
+  "id": 236,
+  "gene": "HADH"
+ },
+ {
+  "id": 178,
+  "gene": "HADHA"
+ },
+ {
+  "id": 232,
+  "gene": "HADHA"
+ },
+ {
+  "id": 233,
+  "gene": "HADHB"
+ },
+ {
+  "id": 1282,
+  "gene": "HADHB"
+ },
+ {
+  "id": 45,
+  "gene": "HAL"
+ },
+ {
+  "id": 581,
+  "gene": "HAMP"
+ },
+ {
+  "id": 597,
+  "gene": "HAO1"
+ },
+ {
+  "id": 1511,
+  "gene": "HARS1"
+ },
+ {
+  "id": 993,
+  "gene": "HARS2"
+ },
+ {
+  "id": 747,
+  "gene": "HCCS"
+ },
+ {
+  "id": 840,
+  "gene": "HCFC1"
+ },
+ {
+  "id": 1740,
+  "gene": "HEPHL1"
+ },
+ {
+  "id": 286,
+  "gene": "HEXA"
+ },
+ {
+  "id": 285,
+  "gene": "HEXB"
+ },
+ {
+  "id": 203,
+  "gene": "HFE"
+ },
+ {
+  "id": 23,
+  "gene": "HGD"
+ },
+ {
+  "id": 245,
+  "gene": "HGSNAT"
+ },
+ {
+  "id": 1212,
+  "gene": "HHAT"
+ },
+ {
+  "id": 67,
+  "gene": "HIBADH"
+ },
+ {
+  "id": 66,
+  "gene": "HIBCH"
+ },
+ {
+  "id": 204,
+  "gene": "HJV"
+ },
+ {
+  "id": 911,
+  "gene": "HK1"
+ },
+ {
+  "id": 912,
+  "gene": "HK1"
+ },
+ {
+  "id": 913,
+  "gene": "HK1"
+ },
+ {
+  "id": 2004,
+  "gene": "HK1"
+ },
+ {
+  "id": 94,
+  "gene": "HLCS"
+ },
+ {
+  "id": 112,
+  "gene": "HMBS"
+ },
+ {
+  "id": 1925,
+  "gene": "HMCN1"
+ },
+ {
+  "id": 62,
+  "gene": "HMGCL"
+ },
+ {
+  "id": 176,
+  "gene": "HMGCS2"
+ },
+ {
+  "id": 1097,
+  "gene": "HMOX1"
+ },
+ {
+  "id": 573,
+  "gene": "HNF1A"
+ },
+ {
+  "id": 896,
+  "gene": "HNF1B"
+ },
+ {
+  "id": 570,
+  "gene": "HNF4A"
+ },
+ {
+  "id": 504,
+  "gene": "HOGA1"
+ },
+ {
+  "id": 21,
+  "gene": "HPD"
+ },
+ {
+  "id": 22,
+  "gene": "HPD"
+ },
+ {
+  "id": 1758,
+  "gene": "HPDL"
+ },
+ {
+  "id": 767,
+  "gene": "HPGD"
+ },
+ {
+  "id": 145,
+  "gene": "HPRT1"
+ },
+ {
+  "id": 1604,
+  "gene": "HPS1"
+ },
+ {
+  "id": 1606,
+  "gene": "HPS3"
+ },
+ {
+  "id": 1607,
+  "gene": "HPS4"
+ },
+ {
+  "id": 1608,
+  "gene": "HPS5"
+ },
+ {
+  "id": 1609,
+  "gene": "HPS6"
+ },
+ {
+  "id": 1422,
+  "gene": "HRAS"
+ },
+ {
+  "id": 1305,
+  "gene": "HS6ST1"
+ },
+ {
+  "id": 1395,
+  "gene": "HS6ST2"
+ },
+ {
+  "id": 1280,
+  "gene": "HSD11B1"
+ },
+ {
+  "id": 123,
+  "gene": "HSD11B2"
+ },
+ {
+  "id": 64,
+  "gene": "HSD17B10"
+ },
+ {
+  "id": 126,
+  "gene": "HSD17B3"
+ },
+ {
+  "id": 274,
+  "gene": "HSD17B4"
+ },
+ {
+  "id": 118,
+  "gene": "HSD3B2"
+ },
+ {
+  "id": 179,
+  "gene": "HSD3B7"
+ },
+ {
+  "id": 1021,
+  "gene": "HSPA9"
+ },
+ {
+  "id": 1022,
+  "gene": "HSPD1"
+ },
+ {
+  "id": 1371,
+  "gene": "HSPD1"
+ },
+ {
+  "id": 1366,
+  "gene": "HSPE1"
+ },
+ {
+  "id": 1861,
+  "gene": "HSPG2"
+ },
+ {
+  "id": 1862,
+  "gene": "HSPG2"
+ },
+ {
+  "id": 1026,
+  "gene": "HTRA2"
+ },
+ {
+  "id": 251,
+  "gene": "HYAL1"
+ },
+ {
+  "id": 1161,
+  "gene": "HYKK"
+ },
+ {
+  "id": 1512,
+  "gene": "IARS1"
+ },
+ {
+  "id": 994,
+  "gene": "IARS2"
+ },
+ {
+  "id": 1236,
+  "gene": "IBA57"
+ },
+ {
+  "id": 1390,
+  "gene": "IDH1"
+ },
+ {
+  "id": 167,
+  "gene": "IDH2"
+ },
+ {
+  "id": 1704,
+  "gene": "IDH3A"
+ },
+ {
+  "id": 920,
+  "gene": "IDH3B"
+ },
+ {
+  "id": 242,
+  "gene": "IDS"
+ },
+ {
+  "id": 241,
+  "gene": "IDUA"
+ },
+ {
+  "id": 776,
+  "gene": "IFIH1"
+ },
+ {
+  "id": 1408,
+  "gene": "IFIH1"
+ },
+ {
+  "id": 1413,
+  "gene": "IGF2;H19;CDKN1C;KCNQ1"
+ },
+ {
+  "id": 1926,
+  "gene": "IGFALS"
+ },
+ {
+  "id": 1927,
+  "gene": "IGFBP7"
+ },
+ {
+  "id": 1676,
+  "gene": "IL1RAPL1"
+ },
+ {
+  "id": 1136,
+  "gene": "IMPAD1"
+ },
+ {
+  "id": 363,
+  "gene": "IMPDH1"
+ },
+ {
+  "id": 2015,
+  "gene": "IMPDH2"
+ },
+ {
+  "id": 1863,
+  "gene": "IMPG1"
+ },
+ {
+  "id": 1864,
+  "gene": "IMPG1"
+ },
+ {
+  "id": 1865,
+  "gene": "IMPG2"
+ },
+ {
+  "id": 1866,
+  "gene": "IMPG2"
+ },
+ {
+  "id": 1075,
+  "gene": "INPP5E"
+ },
+ {
+  "id": 1309,
+  "gene": "INPP5K"
+ },
+ {
+  "id": 1074,
+  "gene": "INPPL1"
+ },
+ {
+  "id": 897,
+  "gene": "INS"
+ },
+ {
+  "id": 898,
+  "gene": "INS"
+ },
+ {
+  "id": 583,
+  "gene": "INSR"
+ },
+ {
+  "id": 1237,
+  "gene": "ISCA1"
+ },
+ {
+  "id": 1238,
+  "gene": "ISCA2"
+ },
+ {
+  "id": 426,
+  "gene": "ISCU"
+ },
+ {
+  "id": 1384,
+  "gene": "ITPA"
+ },
+ {
+  "id": 1081,
+  "gene": "ITPR1"
+ },
+ {
+  "id": 1215,
+  "gene": "ITPR2"
+ },
+ {
+  "id": 56,
+  "gene": "IVD"
+ },
+ {
+  "id": 1156,
+  "gene": "JAGN1"
+ },
+ {
+  "id": 1928,
+  "gene": "KAL1"
+ },
+ {
+  "id": 1002,
+  "gene": "KARS"
+ },
+ {
+  "id": 1514,
+  "gene": "KARS1"
+ },
+ {
+  "id": 1177,
+  "gene": "KCNA1"
+ },
+ {
+  "id": 589,
+  "gene": "KCNA4"
+ },
+ {
+  "id": 890,
+  "gene": "KCNJ10"
+ },
+ {
+  "id": 213,
+  "gene": "KCNJ11"
+ },
+ {
+  "id": 1288,
+  "gene": "KCNJ11"
+ },
+ {
+  "id": 560,
+  "gene": "KCTD7"
+ },
+ {
+  "id": 1414,
+  "gene": "KDM6A"
+ },
+ {
+  "id": 1431,
+  "gene": "KDSR"
+ },
+ {
+  "id": 1867,
+  "gene": "KERA"
+ },
+ {
+  "id": 476,
+  "gene": "KHK"
+ },
+ {
+  "id": 1659,
+  "gene": "KIF1A"
+ },
+ {
+  "id": 1660,
+  "gene": "KIF5A"
+ },
+ {
+  "id": 1661,
+  "gene": "KIF5C"
+ },
+ {
+  "id": 901,
+  "gene": "KLF11"
+ },
+ {
+  "id": 1164,
+  "gene": "KMO"
+ },
+ {
+  "id": 1450,
+  "gene": "KMT2D"
+ },
+ {
+  "id": 652,
+  "gene": "KYNU"
+ },
+ {
+  "id": 165,
+  "gene": "L2HGDH"
+ },
+ {
+  "id": 1479,
+  "gene": "LACC1"
+ },
+ {
+  "id": 1498,
+  "gene": "LAGE3"
+ },
+ {
+  "id": 1929,
+  "gene": "LAMA1"
+ },
+ {
+  "id": 1930,
+  "gene": "LAMA2"
+ },
+ {
+  "id": 1931,
+  "gene": "LAMA3"
+ },
+ {
+  "id": 1932,
+  "gene": "LAMA4"
+ },
+ {
+  "id": 1933,
+  "gene": "LAMB1"
+ },
+ {
+  "id": 1934,
+  "gene": "LAMB2"
+ },
+ {
+  "id": 1935,
+  "gene": "LAMB2"
+ },
+ {
+  "id": 1936,
+  "gene": "LAMB3;LAMC1;LAMC2"
+ },
+ {
+  "id": 1937,
+  "gene": "LAMC3"
+ },
+ {
+  "id": 478,
+  "gene": "LAMP2"
+ },
+ {
+  "id": 1125,
+  "gene": "LARGE1"
+ },
+ {
+  "id": 1513,
+  "gene": "LARS1"
+ },
+ {
+  "id": 995,
+  "gene": "LARS2"
+ },
+ {
+  "id": 197,
+  "gene": "LBR"
+ },
+ {
+  "id": 380,
+  "gene": "LCAT"
+ },
+ {
+  "id": 528,
+  "gene": "LCAT"
+ },
+ {
+  "id": 891,
+  "gene": "LCT"
+ },
+ {
+  "id": 499,
+  "gene": "LDHA"
+ },
+ {
+  "id": 916,
+  "gene": "LDHB"
+ },
+ {
+  "id": 1392,
+  "gene": "LDHD"
+ },
+ {
+  "id": 367,
+  "gene": "LDLR"
+ },
+ {
+  "id": 527,
+  "gene": "LDLR"
+ },
+ {
+  "id": 370,
+  "gene": "LDLRAP1"
+ },
+ {
+  "id": 358,
+  "gene": "LFNG"
+ },
+ {
+  "id": 1939,
+  "gene": "LGI1"
+ },
+ {
+  "id": 1938,
+  "gene": "LGI4"
+ },
+ {
+  "id": 836,
+  "gene": "LIAS"
+ },
+ {
+  "id": 302,
+  "gene": "LIPA"
+ },
+ {
+  "id": 376,
+  "gene": "LIPC"
+ },
+ {
+  "id": 756,
+  "gene": "LIPE"
+ },
+ {
+  "id": 1327,
+  "gene": "LIPH"
+ },
+ {
+  "id": 1687,
+  "gene": "LIPN"
+ },
+ {
+  "id": 837,
+  "gene": "LIPT1"
+ },
+ {
+  "id": 835,
+  "gene": "LIPT2"
+ },
+ {
+  "id": 1638,
+  "gene": "LMAN1"
+ },
+ {
+  "id": 91,
+  "gene": "LMBRD1"
+ },
+ {
+  "id": 1085,
+  "gene": "LMF1"
+ },
+ {
+  "id": 1020,
+  "gene": "LONP1"
+ },
+ {
+  "id": 509,
+  "gene": "LPA"
+ },
+ {
+  "id": 1328,
+  "gene": "LPAR6"
+ },
+ {
+  "id": 750,
+  "gene": "LPIN1"
+ },
+ {
+  "id": 751,
+  "gene": "LPIN2"
+ },
+ {
+  "id": 381,
+  "gene": "LPL"
+ },
+ {
+  "id": 852,
+  "gene": "LRAT"
+ },
+ {
+  "id": 425,
+  "gene": "LRPPRC"
+ },
+ {
+  "id": 1682,
+  "gene": "LRRK2"
+ },
+ {
+  "id": 1329,
+  "gene": "LSS"
+ },
+ {
+  "id": 1940,
+  "gene": "LTBP2"
+ },
+ {
+  "id": 1941,
+  "gene": "LTBP2"
+ },
+ {
+  "id": 1942,
+  "gene": "LTBP2"
+ },
+ {
+  "id": 1943,
+  "gene": "LTBP3"
+ },
+ {
+  "id": 1944,
+  "gene": "LTBP3"
+ },
+ {
+  "id": 1945,
+  "gene": "LTBP4"
+ },
+ {
+  "id": 137,
+  "gene": "LTC4S"
+ },
+ {
+  "id": 1169,
+  "gene": "LYRM4"
+ },
+ {
+  "id": 715,
+  "gene": "LYRM7"
+ },
+ {
+  "id": 1614,
+  "gene": "LYST"
+ },
+ {
+  "id": 384,
+  "gene": "MAGT1"
+ },
+ {
+  "id": 611,
+  "gene": "MAN1B1"
+ },
+ {
+  "id": 260,
+  "gene": "MAN2B1"
+ },
+ {
+  "id": 1727,
+  "gene": "MAN2B2"
+ },
+ {
+  "id": 261,
+  "gene": "MANBA"
+ },
+ {
+  "id": 102,
+  "gene": "MAOA"
+ },
+ {
+  "id": 1651,
+  "gene": "MAOA;MAOB"
+ },
+ {
+  "id": 1515,
+  "gene": "MARS1"
+ },
+ {
+  "id": 996,
+  "gene": "MARS2"
+ },
+ {
+  "id": 24,
+  "gene": "MAT1A"
+ },
+ {
+  "id": 1283,
+  "gene": "MAT1A"
+ },
+ {
+  "id": 1160,
+  "gene": "MAT2A"
+ },
+ {
+  "id": 1946,
+  "gene": "MATN3"
+ },
+ {
+  "id": 1947,
+  "gene": "MATN3"
+ },
+ {
+  "id": 1322,
+  "gene": "MBOAT7"
+ },
+ {
+  "id": 1645,
+  "gene": "MBTPS1"
+ },
+ {
+  "id": 1090,
+  "gene": "MC2R"
+ },
+ {
+  "id": 1723,
+  "gene": "MCAT"
+ },
+ {
+  "id": 57,
+  "gene": "MCCC1"
+ },
+ {
+  "id": 1284,
+  "gene": "MCCC2"
+ },
+ {
+  "id": 544,
+  "gene": "MCEE"
+ },
+ {
+  "id": 1639,
+  "gene": "MCFD2"
+ },
+ {
+  "id": 1108,
+  "gene": "MCOLN1"
+ },
+ {
+  "id": 1719,
+  "gene": "MDH1"
+ },
+ {
+  "id": 921,
+  "gene": "MDH2"
+ },
+ {
+  "id": 1403,
+  "gene": "MDH2"
+ },
+ {
+  "id": 1307,
+  "gene": "MECP2"
+ },
+ {
+  "id": 1045,
+  "gene": "MECR"
+ },
+ {
+  "id": 1989,
+  "gene": "MED12"
+ },
+ {
+  "id": 1990,
+  "gene": "MED12"
+ },
+ {
+  "id": 1991,
+  "gene": "MED12"
+ },
+ {
+  "id": 1948,
+  "gene": "MFAP5"
+ },
+ {
+  "id": 1004,
+  "gene": "MFF"
+ },
+ {
+  "id": 1008,
+  "gene": "MFN2"
+ },
+ {
+  "id": 1043,
+  "gene": "MFSD2A"
+ },
+ {
+  "id": 312,
+  "gene": "MFSD8"
+ },
+ {
+  "id": 332,
+  "gene": "MGAT2"
+ },
+ {
+  "id": 947,
+  "gene": "MGME1"
+ },
+ {
+  "id": 1949,
+  "gene": "MGP"
+ },
+ {
+  "id": 1234,
+  "gene": "MICOS13"
+ },
+ {
+  "id": 1036,
+  "gene": "MICU1"
+ },
+ {
+  "id": 1367,
+  "gene": "MICU2"
+ },
+ {
+  "id": 1582,
+  "gene": "MIEF2"
+ },
+ {
+  "id": 1017,
+  "gene": "MIPEP"
+ },
+ {
+  "id": 1617,
+  "gene": "MLPH"
+ },
+ {
+  "id": 177,
+  "gene": "MLYCD"
+ },
+ {
+  "id": 86,
+  "gene": "MMAA"
+ },
+ {
+  "id": 87,
+  "gene": "MMAB"
+ },
+ {
+  "id": 90,
+  "gene": "MMACHC"
+ },
+ {
+  "id": 1396,
+  "gene": "MMACHC; PRDX1"
+ },
+ {
+  "id": 88,
+  "gene": "MMADHC"
+ },
+ {
+  "id": 89,
+  "gene": "MMADHC"
+ },
+ {
+  "id": 316,
+  "gene": "MMADHC"
+ },
+ {
+  "id": 69,
+  "gene": "MMUT"
+ },
+ {
+  "id": 867,
+  "gene": "MOCOS"
+ },
+ {
+  "id": 77,
+  "gene": "MOCS1"
+ },
+ {
+  "id": 78,
+  "gene": "MOCS2"
+ },
+ {
+  "id": 1739,
+  "gene": "MOCS3"
+ },
+ {
+  "id": 333,
+  "gene": "MOGS"
+ },
+ {
+  "id": 917,
+  "gene": "MPC1"
+ },
+ {
+  "id": 337,
+  "gene": "MPDU1"
+ },
+ {
+  "id": 322,
+  "gene": "MPI"
+ },
+ {
+  "id": 1347,
+  "gene": "MPST"
+ },
+ {
+  "id": 943,
+  "gene": "MPV17"
+ },
+ {
+  "id": 1091,
+  "gene": "MRAP"
+ },
+ {
+  "id": 1365,
+  "gene": "MRM2"
+ },
+ {
+  "id": 1191,
+  "gene": "MRPL12"
+ },
+ {
+  "id": 1716,
+  "gene": "MRPL24"
+ },
+ {
+  "id": 960,
+  "gene": "MRPL3"
+ },
+ {
+  "id": 961,
+  "gene": "MRPL44"
+ },
+ {
+  "id": 1348,
+  "gene": "MRPS14"
+ },
+ {
+  "id": 437,
+  "gene": "MRPS16"
+ },
+ {
+  "id": 1223,
+  "gene": "MRPS2"
+ },
+ {
+  "id": 441,
+  "gene": "MRPS22"
+ },
+ {
+  "id": 1193,
+  "gene": "MRPS23"
+ },
+ {
+  "id": 1717,
+  "gene": "MRPS25"
+ },
+ {
+  "id": 1352,
+  "gene": "MRPS28"
+ },
+ {
+  "id": 962,
+  "gene": "MRPS34"
+ },
+ {
+  "id": 1192,
+  "gene": "MRPS7"
+ },
+ {
+  "id": 317,
+  "gene": "MSMO1"
+ },
+ {
+  "id": 1009,
+  "gene": "MSTO1"
+ },
+ {
+  "id": 741,
+  "gene": "MT-ATP6"
+ },
+ {
+  "id": 742,
+  "gene": "MT-ATP8"
+ },
+ {
+  "id": 735,
+  "gene": "MT-CO1"
+ },
+ {
+  "id": 736,
+  "gene": "MT-CO2"
+ },
+ {
+  "id": 737,
+  "gene": "MT-CO3"
+ },
+ {
+  "id": 744,
+  "gene": "MT-CYB"
+ },
+ {
+  "id": 705,
+  "gene": "MT-ND1"
+ },
+ {
+  "id": 706,
+  "gene": "MT-ND2"
+ },
+ {
+  "id": 707,
+  "gene": "MT-ND3"
+ },
+ {
+  "id": 708,
+  "gene": "MT-ND4"
+ },
+ {
+  "id": 709,
+  "gene": "MT-ND4L"
+ },
+ {
+  "id": 710,
+  "gene": "MT-ND5"
+ },
+ {
+  "id": 711,
+  "gene": "MT-ND6"
+ },
+ {
+  "id": 471,
+  "gene": "MT-RNR1"
+ },
+ {
+  "id": 963,
+  "gene": "MT-RNR2"
+ },
+ {
+  "id": 966,
+  "gene": "MT-TA"
+ },
+ {
+  "id": 970,
+  "gene": "MT-TC"
+ },
+ {
+  "id": 969,
+  "gene": "MT-TD"
+ },
+ {
+  "id": 407,
+  "gene": "MT-TE"
+ },
+ {
+  "id": 408,
+  "gene": "MT-TE"
+ },
+ {
+  "id": 980,
+  "gene": "MT-TF"
+ },
+ {
+  "id": 973,
+  "gene": "MT-TG"
+ },
+ {
+  "id": 974,
+  "gene": "MT-TH"
+ },
+ {
+  "id": 975,
+  "gene": "MT-TI"
+ },
+ {
+  "id": 978,
+  "gene": "MT-TK"
+ },
+ {
+  "id": 976,
+  "gene": "MT-TL1"
+ },
+ {
+  "id": 409,
+  "gene": "MT-TL1, MT-TE, MT-TK"
+ },
+ {
+  "id": 977,
+  "gene": "MT-TL2"
+ },
+ {
+  "id": 979,
+  "gene": "MT-TM"
+ },
+ {
+  "id": 968,
+  "gene": "MT-TN"
+ },
+ {
+  "id": 981,
+  "gene": "MT-TP"
+ },
+ {
+  "id": 972,
+  "gene": "MT-TQ"
+ },
+ {
+  "id": 967,
+  "gene": "MT-TR"
+ },
+ {
+  "id": 982,
+  "gene": "MT-TS1"
+ },
+ {
+  "id": 983,
+  "gene": "MT-TS2"
+ },
+ {
+  "id": 406,
+  "gene": "MT-TT"
+ },
+ {
+  "id": 987,
+  "gene": "MT-TV"
+ },
+ {
+  "id": 985,
+  "gene": "MT-TW"
+ },
+ {
+  "id": 986,
+  "gene": "MT-TY"
+ },
+ {
+  "id": 1402,
+  "gene": "MTAP"
+ },
+ {
+  "id": 954,
+  "gene": "MTFMT"
+ },
+ {
+  "id": 551,
+  "gene": "MTHFD1"
+ },
+ {
+  "id": 72,
+  "gene": "MTHFR"
+ },
+ {
+  "id": 580,
+  "gene": "MTHFS"
+ },
+ {
+  "id": 1063,
+  "gene": "MTM1"
+ },
+ {
+  "id": 1382,
+  "gene": "MTMR14"
+ },
+ {
+  "id": 1064,
+  "gene": "MTMR2"
+ },
+ {
+  "id": 956,
+  "gene": "MTO1"
+ },
+ {
+  "id": 952,
+  "gene": "MTPAP"
+ },
+ {
+  "id": 30,
+  "gene": "MTR"
+ },
+ {
+  "id": 31,
+  "gene": "MTRR"
+ },
+ {
+  "id": 371,
+  "gene": "MTTP"
+ },
+ {
+  "id": 675,
+  "gene": "MVD"
+ },
+ {
+  "id": 191,
+  "gene": "MVK"
+ },
+ {
+  "id": 513,
+  "gene": "MVK"
+ },
+ {
+  "id": 1994,
+  "gene": "MYH11"
+ },
+ {
+  "id": 1995,
+  "gene": "MYH11"
+ },
+ {
+  "id": 1996,
+  "gene": "MYH11"
+ },
+ {
+  "id": 1615,
+  "gene": "MYO5A"
+ },
+ {
+  "id": 845,
+  "gene": "NADK2"
+ },
+ {
+  "id": 1737,
+  "gene": "NADSYN1"
+ },
+ {
+  "id": 262,
+  "gene": "NAGA"
+ },
+ {
+  "id": 263,
+  "gene": "NAGA"
+ },
+ {
+  "id": 264,
+  "gene": "NAGA"
+ },
+ {
+  "id": 244,
+  "gene": "NAGLU"
+ },
+ {
+  "id": 12,
+  "gene": "NAGS"
+ },
+ {
+  "id": 592,
+  "gene": "NANS"
+ },
+ {
+  "id": 1665,
+  "gene": "NAPB"
+ },
+ {
+  "id": 1506,
+  "gene": "NARS1"
+ },
+ {
+  "id": 990,
+  "gene": "NARS2"
+ },
+ {
+  "id": 1696,
+  "gene": "NAT8L"
+ },
+ {
+  "id": 847,
+  "gene": "NAXD"
+ },
+ {
+  "id": 846,
+  "gene": "NAXE"
+ },
+ {
+  "id": 1597,
+  "gene": "NBAS"
+ },
+ {
+  "id": 1637,
+  "gene": "NBEAL2"
+ },
+ {
+  "id": 1304,
+  "gene": "NDST1"
+ },
+ {
+  "id": 694,
+  "gene": "NDUFA1"
+ },
+ {
+  "id": 698,
+  "gene": "NDUFA10"
+ },
+ {
+  "id": 699,
+  "gene": "NDUFA11"
+ },
+ {
+  "id": 700,
+  "gene": "NDUFA12"
+ },
+ {
+  "id": 701,
+  "gene": "NDUFA13"
+ },
+ {
+  "id": 695,
+  "gene": "NDUFA2"
+ },
+ {
+  "id": 696,
+  "gene": "NDUFA4"
+ },
+ {
+  "id": 1320,
+  "gene": "NDUFA6"
+ },
+ {
+  "id": 1705,
+  "gene": "NDUFA8"
+ },
+ {
+  "id": 697,
+  "gene": "NDUFA9"
+ },
+ {
+  "id": 677,
+  "gene": "NDUFAF1"
+ },
+ {
+  "id": 678,
+  "gene": "NDUFAF2"
+ },
+ {
+  "id": 679,
+  "gene": "NDUFAF3"
+ },
+ {
+  "id": 680,
+  "gene": "NDUFAF4"
+ },
+ {
+  "id": 681,
+  "gene": "NDUFAF5"
+ },
+ {
+  "id": 682,
+  "gene": "NDUFAF6"
+ },
+ {
+  "id": 1358,
+  "gene": "NDUFAF7"
+ },
+ {
+  "id": 1707,
+  "gene": "NDUFAF8"
+ },
+ {
+  "id": 1356,
+  "gene": "NDUFB10"
+ },
+ {
+  "id": 704,
+  "gene": "NDUFB11"
+ },
+ {
+  "id": 702,
+  "gene": "NDUFB3"
+ },
+ {
+  "id": 926,
+  "gene": "NDUFB8"
+ },
+ {
+  "id": 703,
+  "gene": "NDUFB9"
+ },
+ {
+  "id": 1706,
+  "gene": "NDUFC2"
+ },
+ {
+  "id": 687,
+  "gene": "NDUFS1"
+ },
+ {
+  "id": 688,
+  "gene": "NDUFS2"
+ },
+ {
+  "id": 689,
+  "gene": "NDUFS3"
+ },
+ {
+  "id": 690,
+  "gene": "NDUFS4"
+ },
+ {
+  "id": 691,
+  "gene": "NDUFS6"
+ },
+ {
+  "id": 692,
+  "gene": "NDUFS7"
+ },
+ {
+  "id": 693,
+  "gene": "NDUFS8"
+ },
+ {
+  "id": 685,
+  "gene": "NDUFV1"
+ },
+ {
+  "id": 686,
+  "gene": "NDUFV2"
+ },
+ {
+  "id": 1543,
+  "gene": "NEPRO"
+ },
+ {
+  "id": 265,
+  "gene": "NEU1"
+ },
+ {
+  "id": 900,
+  "gene": "NEUROD1"
+ },
+ {
+  "id": 797,
+  "gene": "NFE2L2"
+ },
+ {
+  "id": 1170,
+  "gene": "NFS1"
+ },
+ {
+  "id": 838,
+  "gene": "NFU1"
+ },
+ {
+  "id": 1158,
+  "gene": "NGLY1"
+ },
+ {
+  "id": 909,
+  "gene": "NHLRC1"
+ },
+ {
+  "id": 1722,
+  "gene": "NME3"
+ },
+ {
+  "id": 844,
+  "gene": "NMNAT1"
+ },
+ {
+  "id": 848,
+  "gene": "NNT"
+ },
+ {
+  "id": 1539,
+  "gene": "NOLA2"
+ },
+ {
+  "id": 1538,
+  "gene": "NOLA3"
+ },
+ {
+  "id": 1992,
+  "gene": "NOTCH1"
+ },
+ {
+  "id": 1993,
+  "gene": "NOTCH1"
+ },
+ {
+  "id": 303,
+  "gene": "NPC1"
+ },
+ {
+  "id": 304,
+  "gene": "NPC2"
+ },
+ {
+  "id": 1353,
+  "gene": "NPL"
+ },
+ {
+  "id": 1546,
+  "gene": "NPM1"
+ },
+ {
+  "id": 662,
+  "gene": "NR1H4"
+ },
+ {
+  "id": 132,
+  "gene": "NR3C1"
+ },
+ {
+  "id": 133,
+  "gene": "NR3C2"
+ },
+ {
+  "id": 1756,
+  "gene": "NR3C2"
+ },
+ {
+  "id": 1418,
+  "gene": "NSD1;NFIX"
+ },
+ {
+  "id": 194,
+  "gene": "NSDHL"
+ },
+ {
+  "id": 515,
+  "gene": "NSDHL"
+ },
+ {
+  "id": 1492,
+  "gene": "NSUN2"
+ },
+ {
+  "id": 1404,
+  "gene": "NSUN3"
+ },
+ {
+  "id": 154,
+  "gene": "NT5C3A"
+ },
+ {
+  "id": 156,
+  "gene": "NT5C3A"
+ },
+ {
+  "id": 782,
+  "gene": "NT5E"
+ },
+ {
+  "id": 927,
+  "gene": "NUBPL"
+ },
+ {
+  "id": 1481,
+  "gene": "NUDT15"
+ },
+ {
+  "id": 2013,
+  "gene": "NUP107"
+ },
+ {
+  "id": 2012,
+  "gene": "NUP133"
+ },
+ {
+  "id": 603,
+  "gene": "NUS1"
+ },
+ {
+  "id": 1868,
+  "gene": "NYX"
+ },
+ {
+  "id": 778,
+  "gene": "OAS1"
+ },
+ {
+  "id": 562,
+  "gene": "OAT"
+ },
+ {
+  "id": 1061,
+  "gene": "OCRL"
+ },
+ {
+  "id": 1436,
+  "gene": "OCRL"
+ },
+ {
+  "id": 1332,
+  "gene": "ODC1"
+ },
+ {
+  "id": 173,
+  "gene": "OGDH"
+ },
+ {
+  "id": 2016,
+  "gene": "OGDHL"
+ },
+ {
+  "id": 1138,
+  "gene": "OGT"
+ },
+ {
+  "id": 416,
+  "gene": "OPA1"
+ },
+ {
+  "id": 421,
+  "gene": "OPA1"
+ },
+ {
+  "id": 60,
+  "gene": "OPA3"
+ },
+ {
+  "id": 215,
+  "gene": "OPLAH"
+ },
+ {
+  "id": 1499,
+  "gene": "OSGEP"
+ },
+ {
+  "id": 1464,
+  "gene": "OSTC"
+ },
+ {
+  "id": 13,
+  "gene": "OTC"
+ },
+ {
+  "id": 1950,
+  "gene": "OTOG"
+ },
+ {
+  "id": 1721,
+  "gene": "OXA1L"
+ },
+ {
+  "id": 175,
+  "gene": "OXCT1"
+ },
+ {
+  "id": 1,
+  "gene": "PAH"
+ },
+ {
+  "id": 1477,
+  "gene": "PAICS"
+ },
+ {
+  "id": 1015,
+  "gene": "PAM16"
+ },
+ {
+  "id": 209,
+  "gene": "PANK2"
+ },
+ {
+  "id": 1135,
+  "gene": "PAPSS2"
+ },
+ {
+  "id": 1572,
+  "gene": "PARN"
+ },
+ {
+  "id": 1343,
+  "gene": "PARS2"
+ },
+ {
+  "id": 902,
+  "gene": "PAX4"
+ },
+ {
+  "id": 218,
+  "gene": "PC"
+ },
+ {
+  "id": 6,
+  "gene": "PCBD1"
+ },
+ {
+  "id": 68,
+  "gene": "PCCA"
+ },
+ {
+  "id": 1253,
+  "gene": "PCCB"
+ },
+ {
+  "id": 910,
+  "gene": "PCK1"
+ },
+ {
+  "id": 1183,
+  "gene": "PCK2"
+ },
+ {
+  "id": 1698,
+  "gene": "PCSK1"
+ },
+ {
+  "id": 369,
+  "gene": "PCSK9"
+ },
+ {
+  "id": 373,
+  "gene": "PCSK9"
+ },
+ {
+  "id": 622,
+  "gene": "PCYT1A"
+ },
+ {
+  "id": 1291,
+  "gene": "PCYT1A"
+ },
+ {
+  "id": 1457,
+  "gene": "PCYT2"
+ },
+ {
+  "id": 1190,
+  "gene": "PDE12"
+ },
+ {
+  "id": 220,
+  "gene": "PDHA1"
+ },
+ {
+  "id": 221,
+  "gene": "PDHB"
+ },
+ {
+  "id": 224,
+  "gene": "PDHX"
+ },
+ {
+  "id": 918,
+  "gene": "PDK3"
+ },
+ {
+  "id": 225,
+  "gene": "PDP1"
+ },
+ {
+  "id": 1703,
+  "gene": "PDPR"
+ },
+ {
+  "id": 252,
+  "gene": "PDSS1"
+ },
+ {
+  "id": 253,
+  "gene": "PDSS2"
+ },
+ {
+  "id": 899,
+  "gene": "PDX1"
+ },
+ {
+  "id": 1738,
+  "gene": "PDXK"
+ },
+ {
+  "id": 1179,
+  "gene": "PDZK1IP1"
+ },
+ {
+  "id": 52,
+  "gene": "PEPD"
+ },
+ {
+  "id": 935,
+  "gene": "PET100"
+ },
+ {
+  "id": 1361,
+  "gene": "PET117"
+ },
+ {
+  "id": 272,
+  "gene": "PEX1"
+ },
+ {
+  "id": 1268,
+  "gene": "PEX10"
+ },
+ {
+  "id": 1269,
+  "gene": "PEX11B"
+ },
+ {
+  "id": 1270,
+  "gene": "PEX12"
+ },
+ {
+  "id": 1271,
+  "gene": "PEX13"
+ },
+ {
+  "id": 1272,
+  "gene": "PEX14"
+ },
+ {
+  "id": 1273,
+  "gene": "PEX16"
+ },
+ {
+  "id": 1274,
+  "gene": "PEX19"
+ },
+ {
+  "id": 1264,
+  "gene": "PEX2"
+ },
+ {
+  "id": 1275,
+  "gene": "PEX26"
+ },
+ {
+  "id": 1265,
+  "gene": "PEX3"
+ },
+ {
+  "id": 1112,
+  "gene": "PEX5"
+ },
+ {
+  "id": 1266,
+  "gene": "PEX5"
+ },
+ {
+  "id": 1267,
+  "gene": "PEX6"
+ },
+ {
+  "id": 277,
+  "gene": "PEX7"
+ },
+ {
+  "id": 491,
+  "gene": "PFKM"
+ },
+ {
+  "id": 493,
+  "gene": "PGAM2"
+ },
+ {
+  "id": 630,
+  "gene": "PGAP1"
+ },
+ {
+  "id": 1149,
+  "gene": "PGAP2"
+ },
+ {
+  "id": 631,
+  "gene": "PGAP3"
+ },
+ {
+  "id": 502,
+  "gene": "PGK1"
+ },
+ {
+  "id": 600,
+  "gene": "PGM1"
+ },
+ {
+  "id": 1751,
+  "gene": "PGM2L1"
+ },
+ {
+  "id": 601,
+  "gene": "PGM3"
+ },
+ {
+  "id": 131,
+  "gene": "PGR"
+ },
+ {
+  "id": 585,
+  "gene": "PHEX"
+ },
+ {
+  "id": 33,
+  "gene": "PHGDH"
+ },
+ {
+  "id": 563,
+  "gene": "PHKA1"
+ },
+ {
+  "id": 492,
+  "gene": "PHKA2"
+ },
+ {
+  "id": 1258,
+  "gene": "PHKB"
+ },
+ {
+  "id": 1259,
+  "gene": "PHKG2"
+ },
+ {
+  "id": 1426,
+  "gene": "PHOX2B"
+ },
+ {
+  "id": 281,
+  "gene": "PHYH"
+ },
+ {
+  "id": 806,
+  "gene": "PHYKPL"
+ },
+ {
+  "id": 1461,
+  "gene": "PI4K2A"
+ },
+ {
+  "id": 1471,
+  "gene": "PI4KA"
+ },
+ {
+  "id": 1141,
+  "gene": "PIGA"
+ },
+ {
+  "id": 1388,
+  "gene": "PIGB"
+ },
+ {
+  "id": 628,
+  "gene": "PIGC"
+ },
+ {
+  "id": 1764,
+  "gene": "PIGF"
+ },
+ {
+  "id": 629,
+  "gene": "PIGG"
+ },
+ {
+  "id": 1231,
+  "gene": "PIGH"
+ },
+ {
+  "id": 1732,
+  "gene": "PIGK"
+ },
+ {
+  "id": 1143,
+  "gene": "PIGL"
+ },
+ {
+  "id": 361,
+  "gene": "PIGM"
+ },
+ {
+  "id": 1145,
+  "gene": "PIGN"
+ },
+ {
+  "id": 1146,
+  "gene": "PIGO"
+ },
+ {
+  "id": 1219,
+  "gene": "PIGP"
+ },
+ {
+  "id": 1142,
+  "gene": "PIGQ"
+ },
+ {
+  "id": 1306,
+  "gene": "PIGS"
+ },
+ {
+  "id": 1147,
+  "gene": "PIGT"
+ },
+ {
+  "id": 1731,
+  "gene": "PIGU"
+ },
+ {
+  "id": 1144,
+  "gene": "PIGV"
+ },
+ {
+  "id": 627,
+  "gene": "PIGW"
+ },
+ {
+  "id": 386,
+  "gene": "PIGY"
+ },
+ {
+  "id": 1469,
+  "gene": "PIK3C2A"
+ },
+ {
+  "id": 1067,
+  "gene": "PIK3CA"
+ },
+ {
+  "id": 1068,
+  "gene": "PIK3CD"
+ },
+ {
+  "id": 1069,
+  "gene": "PIK3R1"
+ },
+ {
+  "id": 1070,
+  "gene": "PIK3R2"
+ },
+ {
+  "id": 1213,
+  "gene": "PIK3R5"
+ },
+ {
+  "id": 1071,
+  "gene": "PIKFYVE"
+ },
+ {
+  "id": 1028,
+  "gene": "PINK1"
+ },
+ {
+  "id": 1072,
+  "gene": "PIP5K1C"
+ },
+ {
+  "id": 1459,
+  "gene": "PISD"
+ },
+ {
+  "id": 1198,
+  "gene": "PITRM1"
+ },
+ {
+  "id": 915,
+  "gene": "PKLR"
+ },
+ {
+  "id": 1339,
+  "gene": "PLA2G4A"
+ },
+ {
+  "id": 760,
+  "gene": "PLA2G6"
+ },
+ {
+  "id": 1076,
+  "gene": "PLCB1"
+ },
+ {
+  "id": 1214,
+  "gene": "PLCB3"
+ },
+ {
+  "id": 1077,
+  "gene": "PLCB4"
+ },
+ {
+  "id": 1079,
+  "gene": "PLCD1"
+ },
+ {
+  "id": 1080,
+  "gene": "PLCE1"
+ },
+ {
+  "id": 1078,
+  "gene": "PLCG2"
+ },
+ {
+  "id": 1438,
+  "gene": "PLCG2"
+ },
+ {
+  "id": 1771,
+  "gene": "PLCH1"
+ },
+ {
+  "id": 755,
+  "gene": "PLIN1"
+ },
+ {
+  "id": 1468,
+  "gene": "PLIN5"
+ },
+ {
+  "id": 1997,
+  "gene": "PLOD1"
+ },
+ {
+  "id": 1998,
+  "gene": "PLOD3"
+ },
+ {
+  "id": 616,
+  "gene": "PLPBP"
+ },
+ {
+  "id": 321,
+  "gene": "PMM2"
+ },
+ {
+  "id": 1016,
+  "gene": "PMPCA"
+ },
+ {
+  "id": 1226,
+  "gene": "PMPCB"
+ },
+ {
+  "id": 674,
+  "gene": "PMVK"
+ },
+ {
+  "id": 1677,
+  "gene": "PNKD"
+ },
+ {
+  "id": 149,
+  "gene": "PNP"
+ },
+ {
+  "id": 1301,
+  "gene": "PNPLA1"
+ },
+ {
+  "id": 754,
+  "gene": "PNPLA2"
+ },
+ {
+  "id": 1196,
+  "gene": "PNPLA4"
+ },
+ {
+  "id": 763,
+  "gene": "PNPLA6"
+ },
+ {
+  "id": 1011,
+  "gene": "PNPLA8"
+ },
+ {
+  "id": 76,
+  "gene": "PNPO"
+ },
+ {
+  "id": 949,
+  "gene": "PNPT1"
+ },
+ {
+  "id": 1140,
+  "gene": "POFUT1"
+ },
+ {
+  "id": 625,
+  "gene": "POGLUT1"
+ },
+ {
+  "id": 1742,
+  "gene": "POGLUT1"
+ },
+ {
+  "id": 411,
+  "gene": "POLG"
+ },
+ {
+  "id": 420,
+  "gene": "POLG"
+ },
+ {
+  "id": 1427,
+  "gene": "POLG"
+ },
+ {
+  "id": 1428,
+  "gene": "POLG"
+ },
+ {
+  "id": 942,
+  "gene": "POLG2"
+ },
+ {
+  "id": 1529,
+  "gene": "POLR1A"
+ },
+ {
+  "id": 1528,
+  "gene": "POLR1B"
+ },
+ {
+  "id": 1527,
+  "gene": "POLR1C"
+ },
+ {
+  "id": 1530,
+  "gene": "POLR1C"
+ },
+ {
+  "id": 1526,
+  "gene": "POLR1D"
+ },
+ {
+  "id": 1531,
+  "gene": "POLR3A"
+ },
+ {
+  "id": 1532,
+  "gene": "POLR3A"
+ },
+ {
+  "id": 1533,
+  "gene": "POLR3B"
+ },
+ {
+  "id": 1745,
+  "gene": "POLR3GL"
+ },
+ {
+  "id": 1534,
+  "gene": "POLR3H"
+ },
+ {
+  "id": 1748,
+  "gene": "POLR3K"
+ },
+ {
+  "id": 1711,
+  "gene": "POLRMT"
+ },
+ {
+  "id": 354,
+  "gene": "POMGNT1"
+ },
+ {
+  "id": 1120,
+  "gene": "POMGNT2"
+ },
+ {
+  "id": 1122,
+  "gene": "POMK"
+ },
+ {
+  "id": 352,
+  "gene": "POMT1"
+ },
+ {
+  "id": 353,
+  "gene": "POMT2"
+ },
+ {
+  "id": 1542,
+  "gene": "POP1"
+ },
+ {
+  "id": 198,
+  "gene": "POR"
+ },
+ {
+  "id": 1058,
+  "gene": "PORCN"
+ },
+ {
+  "id": 590,
+  "gene": "PPA2"
+ },
+ {
+  "id": 1242,
+  "gene": "PPCS"
+ },
+ {
+  "id": 663,
+  "gene": "PPM1K"
+ },
+ {
+  "id": 109,
+  "gene": "PPOX"
+ },
+ {
+  "id": 305,
+  "gene": "PPT1"
+ },
+ {
+  "id": 1869,
+  "gene": "PRG4"
+ },
+ {
+  "id": 402,
+  "gene": "PRICKLE3"
+ },
+ {
+  "id": 564,
+  "gene": "PRKAG2"
+ },
+ {
+  "id": 1118,
+  "gene": "PRKCSH"
+ },
+ {
+  "id": 1027,
+  "gene": "PRKN"
+ },
+ {
+  "id": 40,
+  "gene": "PRODH"
+ },
+ {
+  "id": 809,
+  "gene": "PRODH2"
+ },
+ {
+  "id": 1712,
+  "gene": "PRORP"
+ },
+ {
+  "id": 147,
+  "gene": "PRPS1"
+ },
+ {
+  "id": 362,
+  "gene": "PRPS1"
+ },
+ {
+  "id": 1666,
+  "gene": "PRRT2"
+ },
+ {
+  "id": 1631,
+  "gene": "PRUNE1"
+ },
+ {
+  "id": 291,
+  "gene": "PSAP"
+ },
+ {
+  "id": 292,
+  "gene": "PSAP"
+ },
+ {
+  "id": 293,
+  "gene": "PSAP"
+ },
+ {
+  "id": 294,
+  "gene": "PSAP"
+ },
+ {
+  "id": 35,
+  "gene": "PSAT1"
+ },
+ {
+  "id": 34,
+  "gene": "PSPH"
+ },
+ {
+  "id": 1463,
+  "gene": "PSTPIP1"
+ },
+ {
+  "id": 1718,
+  "gene": "PTCD3"
+ },
+ {
+  "id": 759,
+  "gene": "PTDSS1"
+ },
+ {
+  "id": 1073,
+  "gene": "PTEN"
+ },
+ {
+  "id": 1003,
+  "gene": "PTRH2"
+ },
+ {
+  "id": 4,
+  "gene": "PTS"
+ },
+ {
+  "id": 444,
+  "gene": "PUS1"
+ },
+ {
+  "id": 1502,
+  "gene": "PUS3"
+ },
+ {
+  "id": 1951,
+  "gene": "PXDN"
+ },
+ {
+  "id": 807,
+  "gene": "PYCR1"
+ },
+ {
+  "id": 808,
+  "gene": "PYCR2"
+ },
+ {
+  "id": 490,
+  "gene": "PYGL"
+ },
+ {
+  "id": 489,
+  "gene": "PYGM"
+ },
+ {
+  "id": 1509,
+  "gene": "QARS1"
+ },
+ {
+  "id": 5,
+  "gene": "QDPR"
+ },
+ {
+  "id": 1195,
+  "gene": "QRSL1"
+ },
+ {
+  "id": 1642,
+  "gene": "RAB18"
+ },
+ {
+  "id": 1641,
+  "gene": "RAB23"
+ },
+ {
+  "id": 1616,
+  "gene": "RAB27A"
+ },
+ {
+  "id": 1643,
+  "gene": "RAB3GAP1"
+ },
+ {
+  "id": 1644,
+  "gene": "RAB3GAP2"
+ },
+ {
+  "id": 1107,
+  "gene": "RAB7A"
+ },
+ {
+  "id": 1330,
+  "gene": "RARB"
+ },
+ {
+  "id": 1505,
+  "gene": "RARS1"
+ },
+ {
+  "id": 989,
+  "gene": "RARS2"
+ },
+ {
+  "id": 907,
+  "gene": "RBCK1"
+ },
+ {
+  "id": 1770,
+  "gene": "RBM28"
+ },
+ {
+  "id": 856,
+  "gene": "RBP3"
+ },
+ {
+  "id": 850,
+  "gene": "RBP4"
+ },
+ {
+  "id": 1429,
+  "gene": "RBP4"
+ },
+ {
+  "id": 1667,
+  "gene": "RBSN"
+ },
+ {
+  "id": 1175,
+  "gene": "RDH11"
+ },
+ {
+  "id": 855,
+  "gene": "RDH12"
+ },
+ {
+  "id": 854,
+  "gene": "RDH5"
+ },
+ {
+  "id": 1952,
+  "gene": "RELN"
+ },
+ {
+  "id": 1953,
+  "gene": "RELN"
+ },
+ {
+  "id": 331,
+  "gene": "RFT1"
+ },
+ {
+  "id": 906,
+  "gene": "RFX6"
+ },
+ {
+  "id": 1656,
+  "gene": "RIC3"
+ },
+ {
+  "id": 1766,
+  "gene": "RINT1"
+ },
+ {
+  "id": 858,
+  "gene": "RLBP1"
+ },
+ {
+  "id": 964,
+  "gene": "RMND1"
+ },
+ {
+  "id": 959,
+  "gene": "RMRP"
+ },
+ {
+  "id": 946,
+  "gene": "RNASEH1"
+ },
+ {
+  "id": 1400,
+  "gene": "RNASEH2A"
+ },
+ {
+  "id": 770,
+  "gene": "RNASEH2B"
+ },
+ {
+  "id": 1399,
+  "gene": "RNASEH2C"
+ },
+ {
+  "id": 773,
+  "gene": "RNASET2"
+ },
+ {
+  "id": 1182,
+  "gene": "RNF31"
+ },
+ {
+  "id": 853,
+  "gene": "RPE65"
+ },
+ {
+  "id": 190,
+  "gene": "RPIA"
+ },
+ {
+  "id": 1566,
+  "gene": "RPL10"
+ },
+ {
+  "id": 1552,
+  "gene": "RPL11"
+ },
+ {
+  "id": 1567,
+  "gene": "RPL13"
+ },
+ {
+  "id": 1557,
+  "gene": "RPL15"
+ },
+ {
+  "id": 1563,
+  "gene": "RPL18"
+ },
+ {
+  "id": 1568,
+  "gene": "RPL21"
+ },
+ {
+  "id": 1556,
+  "gene": "RPL26"
+ },
+ {
+  "id": 1561,
+  "gene": "RPL27"
+ },
+ {
+  "id": 1564,
+  "gene": "RPL35"
+ },
+ {
+  "id": 1550,
+  "gene": "RPL35A"
+ },
+ {
+  "id": 1763,
+  "gene": "RPL3L"
+ },
+ {
+  "id": 1551,
+  "gene": "RPL5"
+ },
+ {
+  "id": 1554,
+  "gene": "RPS10"
+ },
+ {
+  "id": 1565,
+  "gene": "RPS15A"
+ },
+ {
+  "id": 1549,
+  "gene": "RPS17"
+ },
+ {
+  "id": 1547,
+  "gene": "RPS19"
+ },
+ {
+  "id": 1569,
+  "gene": "RPS20"
+ },
+ {
+  "id": 1570,
+  "gene": "RPS23"
+ },
+ {
+  "id": 1548,
+  "gene": "RPS24"
+ },
+ {
+  "id": 1555,
+  "gene": "RPS26"
+ },
+ {
+  "id": 1562,
+  "gene": "RPS27"
+ },
+ {
+  "id": 1560,
+  "gene": "RPS28"
+ },
+ {
+  "id": 1558,
+  "gene": "RPS29"
+ },
+ {
+  "id": 1553,
+  "gene": "RPS7"
+ },
+ {
+  "id": 1571,
+  "gene": "RPSA"
+ },
+ {
+  "id": 150,
+  "gene": "RRM2B"
+ },
+ {
+  "id": 1954,
+  "gene": "RSPO1"
+ },
+ {
+  "id": 1955,
+  "gene": "RSPO2"
+ },
+ {
+  "id": 1956,
+  "gene": "RSPO4"
+ },
+ {
+  "id": 1037,
+  "gene": "RTN4IP1"
+ },
+ {
+  "id": 1636,
+  "gene": "RUBCN"
+ },
+ {
+  "id": 640,
+  "gene": "RXYLT1"
+ },
+ {
+  "id": 2006,
+  "gene": "RYR1"
+ },
+ {
+  "id": 2007,
+  "gene": "RYR1"
+ },
+ {
+  "id": 1023,
+  "gene": "SACS"
+ },
+ {
+  "id": 591,
+  "gene": "SAMD9"
+ },
+ {
+  "id": 774,
+  "gene": "SAMHD1"
+ },
+ {
+  "id": 1406,
+  "gene": "SAMHD1"
+ },
+ {
+  "id": 1083,
+  "gene": "SAR1B"
+ },
+ {
+  "id": 170,
+  "gene": "SARDH"
+ },
+ {
+  "id": 1518,
+  "gene": "SARS1"
+ },
+ {
+  "id": 998,
+  "gene": "SARS2"
+ },
+ {
+  "id": 1300,
+  "gene": "SAT1"
+ },
+ {
+  "id": 1573,
+  "gene": "SBDS"
+ },
+ {
+  "id": 1066,
+  "gene": "SBF1"
+ },
+ {
+  "id": 1065,
+  "gene": "SBF2"
+ },
+ {
+  "id": 196,
+  "gene": "SC5D"
+ },
+ {
+  "id": 377,
+  "gene": "SCARB1"
+ },
+ {
+  "id": 320,
+  "gene": "SCARB2"
+ },
+ {
+  "id": 727,
+  "gene": "SCO1"
+ },
+ {
+  "id": 728,
+  "gene": "SCO2"
+ },
+ {
+  "id": 1114,
+  "gene": "SCP2"
+ },
+ {
+  "id": 1598,
+  "gene": "SCYL1"
+ },
+ {
+  "id": 1599,
+  "gene": "SCYL2"
+ },
+ {
+  "id": 451,
+  "gene": "SDHA"
+ },
+ {
+  "id": 1261,
+  "gene": "SDHA"
+ },
+ {
+  "id": 1262,
+  "gene": "SDHAF1"
+ },
+ {
+  "id": 933,
+  "gene": "SDHAF2"
+ },
+ {
+  "id": 928,
+  "gene": "SDHB"
+ },
+ {
+  "id": 929,
+  "gene": "SDHB"
+ },
+ {
+  "id": 930,
+  "gene": "SDHC"
+ },
+ {
+  "id": 931,
+  "gene": "SDHD"
+ },
+ {
+  "id": 932,
+  "gene": "SDHD"
+ },
+ {
+  "id": 1434,
+  "gene": "SDR9C7"
+ },
+ {
+  "id": 1588,
+  "gene": "SEC23A"
+ },
+ {
+  "id": 391,
+  "gene": "SEC23B"
+ },
+ {
+  "id": 881,
+  "gene": "SECISBP2"
+ },
+ {
+  "id": 804,
+  "gene": "SELENBP1"
+ },
+ {
+  "id": 1227,
+  "gene": "SELENOI"
+ },
+ {
+  "id": 882,
+  "gene": "SEPSECS"
+ },
+ {
+  "id": 575,
+  "gene": "SERAC1"
+ },
+ {
+  "id": 1031,
+  "gene": "SFXN4"
+ },
+ {
+  "id": 1394,
+  "gene": "SGMS2"
+ },
+ {
+  "id": 1055,
+  "gene": "SGPL1"
+ },
+ {
+  "id": 243,
+  "gene": "SGSH"
+ },
+ {
+  "id": 1465,
+  "gene": "SHMT2"
+ },
+ {
+  "id": 894,
+  "gene": "SHPK"
+ },
+ {
+  "id": 668,
+  "gene": "SI"
+ },
+ {
+  "id": 1228,
+  "gene": "SLC10A1"
+ },
+ {
+  "id": 1099,
+  "gene": "SLC10A2"
+ },
+ {
+  "id": 1730,
+  "gene": "SLC10A7"
+ },
+ {
+  "id": 875,
+  "gene": "SLC11A2"
+ },
+ {
+  "id": 889,
+  "gene": "SLC12A3"
+ },
+ {
+  "id": 1317,
+  "gene": "SLC13A3"
+ },
+ {
+  "id": 1314,
+  "gene": "SLC13A5"
+ },
+ {
+  "id": 571,
+  "gene": "SLC16A1"
+ },
+ {
+  "id": 619,
+  "gene": "SLC16A1"
+ },
+ {
+  "id": 2005,
+  "gene": "SLC16A2"
+ },
+ {
+  "id": 267,
+  "gene": "SLC17A5"
+ },
+ {
+  "id": 1369,
+  "gene": "SLC17A5"
+ },
+ {
+  "id": 579,
+  "gene": "SLC18A2"
+ },
+ {
+  "id": 1462,
+  "gene": "SLC19A1"
+ },
+ {
+  "id": 95,
+  "gene": "SLC19A2"
+ },
+ {
+  "id": 392,
+  "gene": "SLC19A3"
+ },
+ {
+  "id": 49,
+  "gene": "SLC1A1"
+ },
+ {
+  "id": 820,
+  "gene": "SLC1A2"
+ },
+ {
+  "id": 521,
+  "gene": "SLC1A3"
+ },
+ {
+  "id": 831,
+  "gene": "SLC1A4"
+ },
+ {
+  "id": 793,
+  "gene": "SLC22A12"
+ },
+ {
+  "id": 9,
+  "gene": "SLC22A5"
+ },
+ {
+  "id": 924,
+  "gene": "SLC25A1"
+ },
+ {
+  "id": 1186,
+  "gene": "SLC25A10"
+ },
+ {
+  "id": 1389,
+  "gene": "SLC25A11"
+ },
+ {
+  "id": 523,
+  "gene": "SLC25A12"
+ },
+ {
+  "id": 18,
+  "gene": "SLC25A13"
+ },
+ {
+  "id": 17,
+  "gene": "SLC25A15"
+ },
+ {
+  "id": 393,
+  "gene": "SLC25A19"
+ },
+ {
+  "id": 229,
+  "gene": "SLC25A20"
+ },
+ {
+  "id": 1350,
+  "gene": "SLC25A21"
+ },
+ {
+  "id": 524,
+  "gene": "SLC25A22"
+ },
+ {
+  "id": 925,
+  "gene": "SLC25A24"
+ },
+ {
+  "id": 596,
+  "gene": "SLC25A26"
+ },
+ {
+  "id": 463,
+  "gene": "SLC25A3"
+ },
+ {
+  "id": 843,
+  "gene": "SLC25A32"
+ },
+ {
+  "id": 466,
+  "gene": "SLC25A38"
+ },
+ {
+  "id": 922,
+  "gene": "SLC25A4"
+ },
+ {
+  "id": 1372,
+  "gene": "SLC25A4"
+ },
+ {
+  "id": 1173,
+  "gene": "SLC25A42"
+ },
+ {
+  "id": 1007,
+  "gene": "SLC25A46"
+ },
+ {
+  "id": 1116,
+  "gene": "SLC26A1"
+ },
+ {
+  "id": 1134,
+  "gene": "SLC26A2"
+ },
+ {
+  "id": 1042,
+  "gene": "SLC27A4"
+ },
+ {
+  "id": 184,
+  "gene": "SLC27A5"
+ },
+ {
+  "id": 1391,
+  "gene": "SLC28A1"
+ },
+ {
+  "id": 783,
+  "gene": "SLC29A1"
+ },
+ {
+  "id": 784,
+  "gene": "SLC29A3"
+ },
+ {
+  "id": 480,
+  "gene": "SLC2A1"
+ },
+ {
+  "id": 494,
+  "gene": "SLC2A10"
+ },
+ {
+  "id": 481,
+  "gene": "SLC2A2"
+ },
+ {
+  "id": 794,
+  "gene": "SLC2A9"
+ },
+ {
+  "id": 879,
+  "gene": "SLC30A10"
+ },
+ {
+  "id": 876,
+  "gene": "SLC30A2"
+ },
+ {
+  "id": 1750,
+  "gene": "SLC30A5"
+ },
+ {
+  "id": 878,
+  "gene": "SLC30A9"
+ },
+ {
+  "id": 550,
+  "gene": "SLC33A1"
+ },
+ {
+  "id": 340,
+  "gene": "SLC35A1"
+ },
+ {
+  "id": 612,
+  "gene": "SLC35A2"
+ },
+ {
+  "id": 1155,
+  "gene": "SLC35A3"
+ },
+ {
+  "id": 341,
+  "gene": "SLC35C1"
+ },
+ {
+  "id": 351,
+  "gene": "SLC35D1"
+ },
+ {
+  "id": 798,
+  "gene": "SLC36A2"
+ },
+ {
+  "id": 39,
+  "gene": "SLC36A2; SLC6A20; SLC6A19"
+ },
+ {
+  "id": 485,
+  "gene": "SLC37A4"
+ },
+ {
+  "id": 1761,
+  "gene": "SLC37A4"
+ },
+ {
+  "id": 800,
+  "gene": "SLC38A8"
+ },
+ {
+  "id": 877,
+  "gene": "SLC39A13"
+ },
+ {
+  "id": 880,
+  "gene": "SLC39A14"
+ },
+ {
+  "id": 202,
+  "gene": "SLC39A4"
+ },
+ {
+  "id": 595,
+  "gene": "SLC39A8"
+ },
+ {
+  "id": 48,
+  "gene": "SLC3A1"
+ },
+ {
+  "id": 868,
+  "gene": "SLC40A1"
+ },
+ {
+  "id": 667,
+  "gene": "SLC45A1"
+ },
+ {
+  "id": 70,
+  "gene": "SLC46A1"
+ },
+ {
+  "id": 1772,
+  "gene": "SLC51A"
+ },
+ {
+  "id": 1773,
+  "gene": "SLC51B"
+ },
+ {
+  "id": 841,
+  "gene": "SLC52A1"
+ },
+ {
+  "id": 1256,
+  "gene": "SLC52A2"
+ },
+ {
+  "id": 529,
+  "gene": "SLC52A3"
+ },
+ {
+  "id": 530,
+  "gene": "SLC52A3"
+ },
+ {
+  "id": 482,
+  "gene": "SLC5A1"
+ },
+ {
+  "id": 479,
+  "gene": "SLC5A2"
+ },
+ {
+  "id": 1172,
+  "gene": "SLC5A6"
+ },
+ {
+  "id": 1654,
+  "gene": "SLC5A7"
+ },
+ {
+  "id": 812,
+  "gene": "SLC6A1"
+ },
+ {
+  "id": 1337,
+  "gene": "SLC6A17"
+ },
+ {
+  "id": 50,
+  "gene": "SLC6A19"
+ },
+ {
+  "id": 1355,
+  "gene": "SLC6A2"
+ },
+ {
+  "id": 103,
+  "gene": "SLC6A3"
+ },
+ {
+  "id": 522,
+  "gene": "SLC6A5"
+ },
+ {
+  "id": 1697,
+  "gene": "SLC6A6"
+ },
+ {
+  "id": 106,
+  "gene": "SLC6A8"
+ },
+ {
+  "id": 832,
+  "gene": "SLC6A9"
+ },
+ {
+  "id": 1338,
+  "gene": "SLC7A14"
+ },
+ {
+  "id": 1159,
+  "gene": "SLC7A2"
+ },
+ {
+  "id": 1354,
+  "gene": "SLC7A3"
+ },
+ {
+  "id": 799,
+  "gene": "SLC7A5"
+ },
+ {
+  "id": 51,
+  "gene": "SLC7A7"
+ },
+ {
+  "id": 1250,
+  "gene": "SLC7A9"
+ },
+ {
+  "id": 1326,
+  "gene": "SLC9A7"
+ },
+ {
+  "id": 553,
+  "gene": "SLCO1B1;SLCO1B3"
+ },
+ {
+  "id": 768,
+  "gene": "SLCO2A1"
+ },
+ {
+  "id": 2014,
+  "gene": "SLIRP"
+ },
+ {
+  "id": 1957,
+  "gene": "SMOC1"
+ },
+ {
+  "id": 1958,
+  "gene": "SMOC2"
+ },
+ {
+  "id": 298,
+  "gene": "SMPD1"
+ },
+ {
+  "id": 1736,
+  "gene": "SMPD4"
+ },
+ {
+  "id": 584,
+  "gene": "SMS"
+ },
+ {
+  "id": 1668,
+  "gene": "SNAP25"
+ },
+ {
+  "id": 1669,
+  "gene": "SNAP29"
+ },
+ {
+  "id": 1540,
+  "gene": "SNORD118"
+ },
+ {
+  "id": 1101,
+  "gene": "SNX14"
+ },
+ {
+  "id": 1685,
+  "gene": "SORCS3"
+ },
+ {
+  "id": 1180,
+  "gene": "SORD"
+ },
+ {
+  "id": 1584,
+  "gene": "SPATA5"
+ },
+ {
+  "id": 1102,
+  "gene": "SPG11"
+ },
+ {
+  "id": 1439,
+  "gene": "SPG11"
+ },
+ {
+  "id": 1440,
+  "gene": "SPG11"
+ },
+ {
+  "id": 1583,
+  "gene": "SPG20"
+ },
+ {
+  "id": 1025,
+  "gene": "SPG7"
+ },
+ {
+  "id": 1724,
+  "gene": "SPNS2"
+ },
+ {
+  "id": 8,
+  "gene": "SPR"
+ },
+ {
+  "id": 1049,
+  "gene": "SPTLC1"
+ },
+ {
+  "id": 1050,
+  "gene": "SPTLC2"
+ },
+ {
+  "id": 1401,
+  "gene": "SQOR"
+ },
+ {
+  "id": 1373,
+  "gene": "SQSTM1"
+ },
+ {
+  "id": 1441,
+  "gene": "SQSTM1"
+ },
+ {
+  "id": 1442,
+  "gene": "SQSTM1"
+ },
+ {
+  "id": 1443,
+  "gene": "SQSTM1"
+ },
+ {
+  "id": 127,
+  "gene": "SRD5A2"
+ },
+ {
+  "id": 335,
+  "gene": "SRD5A3"
+ },
+ {
+  "id": 1959,
+  "gene": "SRPX2"
+ },
+ {
+  "id": 1710,
+  "gene": "SSBP1"
+ },
+ {
+  "id": 1726,
+  "gene": "SSR3"
+ },
+ {
+  "id": 610,
+  "gene": "SSR4"
+ },
+ {
+  "id": 1151,
+  "gene": "ST3GAL3"
+ },
+ {
+  "id": 360,
+  "gene": "ST3GAL5"
+ },
+ {
+  "id": 1082,
+  "gene": "STAP1"
+ },
+ {
+  "id": 116,
+  "gene": "STAR"
+ },
+ {
+  "id": 1006,
+  "gene": "STAT2"
+ },
+ {
+  "id": 1650,
+  "gene": "STEAP3"
+ },
+ {
+  "id": 851,
+  "gene": "STRA6"
+ },
+ {
+  "id": 1092,
+  "gene": "STS"
+ },
+ {
+  "id": 608,
+  "gene": "STT3A"
+ },
+ {
+  "id": 609,
+  "gene": "STT3B"
+ },
+ {
+  "id": 1624,
+  "gene": "STX11"
+ },
+ {
+  "id": 1674,
+  "gene": "STX1B"
+ },
+ {
+  "id": 1765,
+  "gene": "STX5"
+ },
+ {
+  "id": 1670,
+  "gene": "STXBP1"
+ },
+ {
+  "id": 1625,
+  "gene": "STXBP2"
+ },
+ {
+  "id": 503,
+  "gene": "SUCLA2"
+ },
+ {
+  "id": 574,
+  "gene": "SUCLG1"
+ },
+ {
+  "id": 537,
+  "gene": "SUGCT"
+ },
+ {
+  "id": 1312,
+  "gene": "SULT2B1"
+ },
+ {
+  "id": 301,
+  "gene": "SUMF1"
+ },
+ {
+  "id": 29,
+  "gene": "SUOX"
+ },
+ {
+  "id": 729,
+  "gene": "SURF1"
+ },
+ {
+  "id": 1671,
+  "gene": "SV2A"
+ },
+ {
+  "id": 1675,
+  "gene": "SYN1"
+ },
+ {
+  "id": 1062,
+  "gene": "SYNJ1"
+ },
+ {
+  "id": 1437,
+  "gene": "SYNJ1"
+ },
+ {
+  "id": 1678,
+  "gene": "SYT1"
+ },
+ {
+  "id": 1680,
+  "gene": "SYT14"
+ },
+ {
+  "id": 1679,
+  "gene": "SYT2"
+ },
+ {
+  "id": 934,
+  "gene": "TACO1"
+ },
+ {
+  "id": 1535,
+  "gene": "TAF1A"
+ },
+ {
+  "id": 189,
+  "gene": "TALDO1"
+ },
+ {
+  "id": 594,
+  "gene": "TANGO2"
+ },
+ {
+  "id": 1519,
+  "gene": "TARS1"
+ },
+ {
+  "id": 1194,
+  "gene": "TARS2"
+ },
+ {
+  "id": 20,
+  "gene": "TAT"
+ },
+ {
+  "id": 59,
+  "gene": "TAZ"
+ },
+ {
+  "id": 1658,
+  "gene": "TBC1D24"
+ },
+ {
+  "id": 1378,
+  "gene": "TBCK"
+ },
+ {
+  "id": 1106,
+  "gene": "TBK1"
+ },
+ {
+  "id": 766,
+  "gene": "TBXAS1"
+ },
+ {
+  "id": 84,
+  "gene": "TCN1"
+ },
+ {
+  "id": 85,
+  "gene": "TCN2"
+ },
+ {
+  "id": 1525,
+  "gene": "TCOF1"
+ },
+ {
+  "id": 618,
+  "gene": "TDO2"
+ },
+ {
+  "id": 1105,
+  "gene": "TECPR2"
+ },
+ {
+  "id": 1207,
+  "gene": "TECR"
+ },
+ {
+  "id": 1960,
+  "gene": "TECTA"
+ },
+ {
+  "id": 1961,
+  "gene": "TECTA"
+ },
+ {
+  "id": 206,
+  "gene": "TF"
+ },
+ {
+  "id": 1189,
+  "gene": "TFAM"
+ },
+ {
+  "id": 582,
+  "gene": "TFR2"
+ },
+ {
+  "id": 874,
+  "gene": "TFRC"
+ },
+ {
+  "id": 1430,
+  "gene": "TGDS"
+ },
+ {
+  "id": 1999,
+  "gene": "TGFB1"
+ },
+ {
+  "id": 2000,
+  "gene": "TGFB1"
+ },
+ {
+  "id": 1962,
+  "gene": "TGFBI"
+ },
+ {
+  "id": 1963,
+  "gene": "TGFBI"
+ },
+ {
+  "id": 1964,
+  "gene": "TGFBI"
+ },
+ {
+  "id": 1965,
+  "gene": "TGFBI"
+ },
+ {
+  "id": 1966,
+  "gene": "TGFBI"
+ },
+ {
+  "id": 1967,
+  "gene": "TGFBI"
+ },
+ {
+  "id": 1968,
+  "gene": "TGFBI"
+ },
+ {
+  "id": 2002,
+  "gene": "TGFBR1"
+ },
+ {
+  "id": 2001,
+  "gene": "TGFBR2"
+ },
+ {
+  "id": 99,
+  "gene": "TH"
+ },
+ {
+  "id": 1386,
+  "gene": "THAP11"
+ },
+ {
+  "id": 1713,
+  "gene": "THG1L"
+ },
+ {
+  "id": 1466,
+  "gene": "TIMM22"
+ },
+ {
+  "id": 650,
+  "gene": "TIMM50"
+ },
+ {
+  "id": 467,
+  "gene": "TIMM8A"
+ },
+ {
+  "id": 1341,
+  "gene": "TIMMDC1"
+ },
+ {
+  "id": 158,
+  "gene": "TK2"
+ },
+ {
+  "id": 1700,
+  "gene": "TKFC"
+ },
+ {
+  "id": 893,
+  "gene": "TKT"
+ },
+ {
+  "id": 1033,
+  "gene": "TMEM126A"
+ },
+ {
+  "id": 684,
+  "gene": "TMEM126B"
+ },
+ {
+  "id": 613,
+  "gene": "TMEM165"
+ },
+ {
+  "id": 777,
+  "gene": "TMEM173"
+ },
+ {
+  "id": 634,
+  "gene": "TMEM199"
+ },
+ {
+  "id": 576,
+  "gene": "TMEM70"
+ },
+ {
+  "id": 1041,
+  "gene": "TMLHE"
+ },
+ {
+  "id": 873,
+  "gene": "TMPRSS6"
+ },
+ {
+  "id": 1460,
+  "gene": "TNR"
+ },
+ {
+  "id": 1969,
+  "gene": "TNXB"
+ },
+ {
+  "id": 1970,
+  "gene": "TNXB"
+ },
+ {
+  "id": 1720,
+  "gene": "TOMM70"
+ },
+ {
+  "id": 1336,
+  "gene": "TOP3A"
+ },
+ {
+  "id": 1681,
+  "gene": "TOR1A"
+ },
+ {
+  "id": 1500,
+  "gene": "TP53RK"
+ },
+ {
+  "id": 653,
+  "gene": "TPI1"
+ },
+ {
+  "id": 621,
+  "gene": "TPK1"
+ },
+ {
+  "id": 151,
+  "gene": "TPMT"
+ },
+ {
+  "id": 306,
+  "gene": "TPP1"
+ },
+ {
+  "id": 1501,
+  "gene": "TPRKB"
+ },
+ {
+  "id": 1035,
+  "gene": "TRAK1"
+ },
+ {
+  "id": 632,
+  "gene": "TRAPPC11"
+ },
+ {
+  "id": 1594,
+  "gene": "TRAPPC12"
+ },
+ {
+  "id": 1589,
+  "gene": "TRAPPC2"
+ },
+ {
+  "id": 1590,
+  "gene": "TRAPPC2L"
+ },
+ {
+  "id": 1591,
+  "gene": "TRAPPC4"
+ },
+ {
+  "id": 1592,
+  "gene": "TRAPPC6B"
+ },
+ {
+  "id": 1593,
+  "gene": "TRAPPC9"
+ },
+ {
+  "id": 669,
+  "gene": "TREH"
+ },
+ {
+  "id": 769,
+  "gene": "TREX1"
+ },
+ {
+  "id": 1397,
+  "gene": "TREX1"
+ },
+ {
+  "id": 1398,
+  "gene": "TREX1"
+ },
+ {
+  "id": 390,
+  "gene": "TRIP11"
+ },
+ {
+  "id": 957,
+  "gene": "TRIT1"
+ },
+ {
+  "id": 1489,
+  "gene": "TRMT1"
+ },
+ {
+  "id": 1421,
+  "gene": "TRMT10A"
+ },
+ {
+  "id": 950,
+  "gene": "TRMT10C"
+ },
+ {
+  "id": 958,
+  "gene": "TRMT5"
+ },
+ {
+  "id": 445,
+  "gene": "TRMU"
+ },
+ {
+  "id": 953,
+  "gene": "TRNT1"
+ },
+ {
+  "id": 883,
+  "gene": "TRPM6"
+ },
+ {
+  "id": 1485,
+  "gene": "TSEN15"
+ },
+ {
+  "id": 1484,
+  "gene": "TSEN2"
+ },
+ {
+  "id": 1486,
+  "gene": "TSEN34"
+ },
+ {
+  "id": 1487,
+  "gene": "TSEN54"
+ },
+ {
+  "id": 439,
+  "gene": "TSFM"
+ },
+ {
+  "id": 1971,
+  "gene": "TSPEAR"
+ },
+ {
+  "id": 1972,
+  "gene": "TSPEAR"
+ },
+ {
+  "id": 1559,
+  "gene": "TSR2"
+ },
+ {
+  "id": 712,
+  "gene": "TTC19"
+ },
+ {
+  "id": 658,
+  "gene": "TTPA"
+ },
+ {
+  "id": 440,
+  "gene": "TUFM"
+ },
+ {
+  "id": 334,
+  "gene": "TUSC3"
+ },
+ {
+  "id": 944,
+  "gene": "TWNK"
+ },
+ {
+  "id": 1199,
+  "gene": "TXN2"
+ },
+ {
+  "id": 1200,
+  "gene": "TXNRD2"
+ },
+ {
+  "id": 157,
+  "gene": "TYMP"
+ },
+ {
+  "id": 802,
+  "gene": "TYR"
+ },
+ {
+  "id": 866,
+  "gene": "UBIAD1"
+ },
+ {
+  "id": 1536,
+  "gene": "UBTF"
+ },
+ {
+  "id": 468,
+  "gene": "UCP1;UCP2;UCP3"
+ },
+ {
+  "id": 572,
+  "gene": "UCP2"
+ },
+ {
+  "id": 1248,
+  "gene": "UGCG"
+ },
+ {
+  "id": 1734,
+  "gene": "UGDH"
+ },
+ {
+  "id": 1735,
+  "gene": "UGP2"
+ },
+ {
+  "id": 661,
+  "gene": "UGT1A1"
+ },
+ {
+  "id": 1405,
+  "gene": "UMOD"
+ },
+ {
+  "id": 152,
+  "gene": "UMPS"
+ },
+ {
+  "id": 1601,
+  "gene": "UNC13D"
+ },
+ {
+  "id": 786,
+  "gene": "UNG"
+ },
+ {
+  "id": 160,
+  "gene": "UPB1"
+ },
+ {
+  "id": 2003,
+  "gene": "UPF3B"
+ },
+ {
+  "id": 1342,
+  "gene": "UQCC2"
+ },
+ {
+  "id": 714,
+  "gene": "UQCC3"
+ },
+ {
+  "id": 716,
+  "gene": "UQCRB"
+ },
+ {
+  "id": 1744,
+  "gene": "UQCRC1"
+ },
+ {
+  "id": 666,
+  "gene": "UQCRC2"
+ },
+ {
+  "id": 1686,
+  "gene": "UQCRFS1"
+ },
+ {
+  "id": 717,
+  "gene": "UQCRQ"
+ },
+ {
+  "id": 46,
+  "gene": "UROC1"
+ },
+ {
+  "id": 114,
+  "gene": "UROD"
+ },
+ {
+  "id": 111,
+  "gene": "UROS"
+ },
+ {
+  "id": 506,
+  "gene": "USF1"
+ },
+ {
+  "id": 1029,
+  "gene": "USP9X"
+ },
+ {
+  "id": 1453,
+  "gene": "VAC14"
+ },
+ {
+  "id": 1456,
+  "gene": "VAC14"
+ },
+ {
+  "id": 1672,
+  "gene": "VAMP1"
+ },
+ {
+  "id": 1673,
+  "gene": "VAMP2"
+ },
+ {
+  "id": 1620,
+  "gene": "VAPB"
+ },
+ {
+  "id": 1522,
+  "gene": "VARS1"
+ },
+ {
+  "id": 999,
+  "gene": "VARS2"
+ },
+ {
+  "id": 1870,
+  "gene": "VCAN"
+ },
+ {
+  "id": 1030,
+  "gene": "VCP"
+ },
+ {
+  "id": 861,
+  "gene": "VDR"
+ },
+ {
+  "id": 1596,
+  "gene": "VIPAS39"
+ },
+ {
+  "id": 864,
+  "gene": "VKORC1"
+ },
+ {
+  "id": 1474,
+  "gene": "VLDLR"
+ },
+ {
+  "id": 1733,
+  "gene": "VMA21"
+ },
+ {
+  "id": 587,
+  "gene": "VPS11"
+ },
+ {
+  "id": 1621,
+  "gene": "VPS13A"
+ },
+ {
+  "id": 633,
+  "gene": "VPS13B"
+ },
+ {
+  "id": 1622,
+  "gene": "VPS13C"
+ },
+ {
+  "id": 1623,
+  "gene": "VPS13D"
+ },
+ {
+  "id": 1746,
+  "gene": "VPS16"
+ },
+ {
+  "id": 648,
+  "gene": "VPS33A"
+ },
+ {
+  "id": 1602,
+  "gene": "VPS33B"
+ },
+ {
+  "id": 1747,
+  "gene": "VPS41"
+ },
+ {
+  "id": 1595,
+  "gene": "VPS45"
+ },
+ {
+  "id": 1694,
+  "gene": "VPS4A"
+ },
+ {
+  "id": 2009,
+  "gene": "VPS50"
+ },
+ {
+  "id": 1973,
+  "gene": "VWA3B"
+ },
+ {
+  "id": 1974,
+  "gene": "VWF"
+ },
+ {
+  "id": 1975,
+  "gene": "VWF"
+ },
+ {
+  "id": 1976,
+  "gene": "VWF"
+ },
+ {
+  "id": 1520,
+  "gene": "WARS1"
+ },
+ {
+  "id": 1000,
+  "gene": "WARS2"
+ },
+ {
+  "id": 1503,
+  "gene": "WDR4"
+ },
+ {
+  "id": 617,
+  "gene": "WDR45"
+ },
+ {
+  "id": 1977,
+  "gene": "WISP3"
+ },
+ {
+  "id": 364,
+  "gene": "XDH"
+ },
+ {
+  "id": 810,
+  "gene": "XPNPEP3"
+ },
+ {
+  "id": 638,
+  "gene": "XYLT1"
+ },
+ {
+  "id": 639,
+  "gene": "XYLT2"
+ },
+ {
+  "id": 1521,
+  "gene": "YARS1"
+ },
+ {
+  "id": 1279,
+  "gene": "YARS2"
+ },
+ {
+  "id": 1693,
+  "gene": "YIF1B"
+ },
+ {
+  "id": 1197,
+  "gene": "YME1L1"
+ },
+ {
+  "id": 1496,
+  "gene": "YRDC"
+ },
+ {
+  "id": 1211,
+  "gene": "ZDHHC15"
+ },
+ {
+  "id": 1057,
+  "gene": "ZDHHC9"
+ },
+ {
+  "id": 1760,
+  "gene": "ZFYVE19"
+ },
+ {
+  "id": 1103,
+  "gene": "ZFYVE26"
+ },
+ {
+  "id": 1385,
+  "gene": "ZNF143"
+ },
+ {
+  "id": 1978,
+  "gene": "ZP1"
+ },
+ {
+  "id": 1979,
+  "gene": "ZP3"
+ }
+]
+}

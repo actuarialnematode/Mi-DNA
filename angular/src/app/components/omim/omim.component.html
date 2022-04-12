@@ -1,0 +1,16 @@
+<table>
+    <tr>
+      <th >OMIMID</th>
+      <th >NAME</th>
+      <th >GENES</th>
+      <th >PNIMID</th>
+      <th >LOCATION</th>
+    </tr>
+    <tr *ngFor="let omim of omimData.omims">
+      <td>{{omim.omimId}}</td>
+      <td>{{omim.pmim_name}}</td>
+      <td>{{omim.pmim_genes}}</td>
+      <td>{{omim.pmim_id}}</td>
+      <td>{{omim.pmim_location}}</td>
+    </tr>
+</table>
