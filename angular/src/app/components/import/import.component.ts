@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
 import { Doc2HPOService } from '../../services/doc2-hpo.service';
+import { environment } from 'src/environments/environment';
 
 @Component({
   selector: 'app-import',
@@ -14,6 +15,7 @@ export class ImportComponent implements OnInit {
   SERVER_URL = "http://localhost:8081/upload";
   uploadForm: FormGroup;
   notes:string;
+  env=environment;
   constructor(private formBuilder: FormBuilder, private httpClient: HttpClient,private hpoService:Doc2HPOService) { 
     this.notes="";
     this.uploadForm = this.formBuilder.group({
@@ -35,7 +37,12 @@ export class ImportComponent implements OnInit {
 
   onSubmit() {
     const formData = new FormData();
-    
+    this.env.isLoading=true;
+    let overlay = document.getElementById("overlay");
+    if(overlay!=null)
+    {
+      overlay.style.display="block";
+    }
     // @ts-ignore: Object is possibly 'null'.
     formData.append('file', this.uploadForm.get('file').value);
     
@@ -48,6 +55,11 @@ export class ImportComponent implements OnInit {
       this.hpoService.getHpoTerms(this.notes).subscribe(
         (response) => {
           localStorage.setItem("notes",JSON.stringify(response));
+          this.env.isLoading=false;
+          if(overlay!=null)
+          { 
+            overlay.style.display="none";
+          }
         }
       );
     } 

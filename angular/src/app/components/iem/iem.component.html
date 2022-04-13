@@ -1,10 +1,32 @@
-<table>
-    <tr>
-      <th >Iem ID</th>
-      <th >Symptoms</th>
-    </tr>
-    <tr *ngFor="let iem of iems.iems">
-      <td>{{iem.iem_geneid}}</td>
-      
-    </tr>
-  </table>
+<div *ngIf="env.isLoading==false" class="wrapper">
+    <table>
+        <tr>
+            <th>OMIM ID</th>
+            <th>IEMBase ID</th>
+            <th>Symptoms</th>
+        </tr>
+        <tr *ngFor="let iem of iems.iems">
+            <td>{{iem.iem_omim}}</td>
+            <td>{{iem.iem_geneid}}</td>
+            <td>
+
+                <table>
+                    <tr class="innerRows">
+                        <th>Name</th>
+                        <th>Biochemical Test</th>
+                        <th>HMDB</th>
+                    </tr>
+                    <tr class="innerRows" *ngFor="let symptom of iem.iemSymptoms">
+                        <td>{{symptom.iemSymptom_name}}</td>
+                        <td>{{symptom.iemSymptom_biochemicalTest}}</td>
+                        <td>{{symptom.iemSymptom_hmdb}}</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- <div *ngFor="let symptom of iem.iemSymptoms">
+          <br>{{symptom.iemSymptom_name}}
+        </div> -->

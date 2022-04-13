@@ -1,14 +1,16 @@
-<table>
-    <tr>
-      <th>Gene</th>
-      <th>Rank</th>
-      <th>Score</th>
-      <th>Status</th>
-    </tr>
-    <tr *ngFor="let phenGene of phenGenes.terms">
-      <td>{{phenGene.phen_gene}}</td>
-      <td>{{phenGene.phen_rank}}</td>
-      <td>{{phenGene.phen_score}}</td>
-      <td>{{phenGene.phen_status}}</td>
-    </tr>
-</table>
+<div class="wrapper">
+    <table>
+        <tr>
+            <th>Gene</th>
+            <th>Rank</th>
+            <th>Score</th>
+            <th>Status</th>
+        </tr>
+        <tr *ngFor="let phenGene of phenGenes.terms">
+            <td>{{phenGene.phen_gene}}</td>
+            <td>{{phenGene.phen_rank}}</td>
+            <td>{{phenGene.phen_score}}</td>
+            <td>{{phenGene.phen_status}}</td>
+        </tr>
+    </table>
+</div>

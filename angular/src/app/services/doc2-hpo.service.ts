@@ -15,12 +15,13 @@ export class Doc2HPOService {
   constructor(private http: HttpClient) { }
 
   /* need to change caseNumber variable to Doc2HPO input variable */
-  getHpoTerms(text:string)
-  {
-    console.log("Sending request to "+this.HPO_URL);
-    return this.http.get<HpoTerms>
-    (
-      this.HPO_URL+"?text="+text, {});
+  getHpoTerms(text: string) {
+    let formData: FormData = new FormData()
+    formData.append("text", text);
+    console.log("Sending request to " + this.HPO_URL);
+    return this.http.post<HpoTerms>
+      (
+        this.HPO_URL, formData);
   }
 
 }

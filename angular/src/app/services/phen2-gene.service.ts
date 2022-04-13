@@ -12,7 +12,7 @@ export class Phen2GeneService {
 
   terms:Array<HpoTerm>;
   hpoIds:Array<string>;
-  /* need to change environment.caseEndpint to Phen2Gene endpoint */
+  
   private PHEN2GENE_URL = environment.serviceUrl + environment.phen2geneEndpoint;
 
   constructor(private http: HttpClient) {
@@ -20,25 +20,17 @@ export class Phen2GeneService {
     this.hpoIds = new Array<string>();
   }
 
-  /* need to change caseNumber variable to Phen2Gene input variable */
   getPhenGenes()
   {
     let notes = localStorage.getItem("notes");
-    if(notes != null)
-    {
+    if (notes != null) {
       this.terms= JSON.parse(notes);
-    }else
-    {
+    } else {
       this.terms= new Array<HpoTerm>();
-    }
-    for(let hpo of this.terms)
-    {
+    } for(let hpo of this.terms) {
       this.hpoIds.push(hpo.hpo_id);
     }
-
-    return this.http.get<Array<PhenGene>>
-    (
-      this.PHEN2GENE_URL+"?hpos="+this.hpoIds, {});
+    return this.http.get<Array<PhenGene>> (this.PHEN2GENE_URL+"?hpos="+this.hpoIds, {});
   }
   
 }

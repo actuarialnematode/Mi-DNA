@@ -11,5 +11,6 @@ export const environment = {
   doc2hpoEndpoint: '/doc2hpo',
   phen2geneEndpoint: '/phen2gene',
   iemEndpoint: '/iembase',
-  omimEndpoint: '/omim'
+  omimEndpoint: '/omim',
+  isLoading: false
 };

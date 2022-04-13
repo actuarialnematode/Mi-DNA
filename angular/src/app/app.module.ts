@@ -12,6 +12,8 @@ import { HpoTermsComponent } from './components/hpo-terms/hpo-terms.component';
 import { PhenGeneComponent } from './components/phen-gene/phen-gene.component';
 import { IemComponent } from './components/iem/iem.component';
 import { OmimComponent } from './components/omim/omim.component';
+import { OverlayComponent } from './components/overlay/overlay.component';
+import { RegisterComponent } from './components/register/register.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +25,9 @@ import { OmimComponent } from './components/omim/omim.component';
     HpoTermsComponent,
     PhenGeneComponent,
     IemComponent,
-    OmimComponent
+    OmimComponent,
+    OverlayComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,
@@ -35,4 +39,6 @@ import { OmimComponent } from './components/omim/omim.component';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+  
+ }

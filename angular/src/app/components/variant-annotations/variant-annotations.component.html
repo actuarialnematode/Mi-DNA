@@ -1,13 +1,17 @@
 <p></p>
-<select name="cases" id="cases" [ngModel]="selectedDevice" (ngModelChange)="onChange($event)">
-    <option *ngFor="let case of cases;" value="{{case}}">{{case}}</option>
+<select class="case-selector" name="cases" id="cases" [ngModel]="selectedDevice" (ngModelChange)="onChange($event)"> 
+  <option value="" selected disabled hidden>Cases</option>
+  <option *ngFor="let case of cases;" value="{{case}}">{{case}}</option>
   </select>
-  <br><br>
-<table>
-    <tr>
-      <th *ngFor="let header of headers;">{{header}}</th>
-    </tr>
-    <tr *ngFor="let row of rows">
-      <td *ngFor="let data of row.getAllFields();index as i;">{{row.getAllFields()[i]}}</td>
-    </tr>
-  </table>
+<br><br>
+<div class="wrapper">
+    <table>
+        <tr>
+            <th *ngFor="let header of readableHeaders;">{{header}}</th>
+        </tr>
+        <tr *ngFor="let row of rows">
+            <td *ngFor="let data of row.getAllFields();index as i;">{{row.getAllFields()[i]}}</td>
+        </tr>
+    </table>
+
+</div>
