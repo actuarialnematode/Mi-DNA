@@ -81,6 +81,7 @@ public class Phen2GeneController {
         ArrayList<PhenGene> allGenes = new ArrayList<>();
         for(String hpo: hpoIDs) {
             ArrayList<PhenGene> phenGenes = getGeneData(hpo);
+            // looping through all phengenes for one HPO then adding them to the main list of phengenes
             for(PhenGene pheneGene : phenGenes)
             {
                 allGenes.add(pheneGene);

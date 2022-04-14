@@ -27,9 +27,11 @@ export class LoginComponent implements OnInit {
       console.log("Password: "+this.password);
       this.authService.authenticate(new User(this.email,this.password,'','')).subscribe(
         (response) => {
-            if(response!=null)
+            if(response!=null && response.email != null && response.token != null)
             {
               this.router.navigate(['/dashboard'], {replaceUrl: true});
+              localStorage.setItem('user', response.email);
+              localStorage.setItem('token', response.token);
             }else
             {
               alert("Invalid user");

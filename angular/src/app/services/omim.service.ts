@@ -18,7 +18,7 @@ export class OmimService {
   getOmimTerms(omimNo:Array<string>)
   {
     let formData: FormData = new FormData()
-    formData.append("iemOMIMs", "248000,220110");
+    formData.append("iemOMIMs", JSON.stringify(omimNo));
     return this.http.post<Array<Omim>>
     (
       this.OMIM_URL,formData);

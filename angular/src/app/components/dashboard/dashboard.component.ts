@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { environment } from 'src/environments/environment';
+import { Token } from '@angular/compiler/src/ml_parser/tokens';
+import { AuthService } from 'src/app/services/auth.service';
+import { User } from 'src/app/classes/user';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-dashboard',
@@ -16,7 +20,16 @@ export class DashboardComponent implements OnInit {
   status4:boolean;
   status5:boolean;
 
-  constructor() { 
+  constructor(private authService:AuthService,private router:Router) { 
+    authService.checkSession().subscribe(
+      (response)=>{
+        console.log("Auth Response User:",response);
+        if(response.token==null || response.email==null)
+        {
+          this.router.navigate(['/login'], {replaceUrl: true});
+        }
+      }
+    );
     this.selectedTab="";
     this.env.isLoading=false;
     this.status1 = false;

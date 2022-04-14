@@ -67,7 +67,8 @@ public class OMIMController {
     @PostMapping(value = "/omim")
     public ArrayList<PMIMEntry> getPMIMs(@RequestParam(name = "iemOMIMs") String iemOMIMs) throws IOException {
         System.out.println("Recieved Params"+ iemOMIMs);
-        ArrayList<String> omims = new ArrayList<>(Arrays.asList(iemOMIMs.split(",")));
+        String [] omimsArr=iemOMIMs.replaceAll("\\\"","").replaceAll("(\\[|\\])","").split(",");
+        ArrayList<String> omims = new ArrayList<>(Arrays.asList(omimsArr));
         System.out.println("Processing " + omims.size() + " OMIMs");
         ArrayList<PMIMEntry> pmimEntries = new ArrayList<>();
         for (String omim : omims) {

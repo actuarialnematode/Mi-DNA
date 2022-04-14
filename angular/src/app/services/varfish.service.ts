@@ -14,15 +14,16 @@ export class VarfishService {
 
   constructor(private http: HttpClient) { }
 
+  // returns a list of varfish case names
   getCases(): any
   {
     console.log(this.CASES_URL);
     return this.http.get<Array<string>>
     (
-      this.CASES_URL, {
-      });
+      this.CASES_URL, {});
   }
-
+  
+  // get request specifies return object of array of genome locations
   getGenomeLocationsByCase(caseNumber:string): any
   {
     return this.http.get<Array<GenomeLocation>>

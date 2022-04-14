@@ -88,6 +88,7 @@ public class IEMBaseController {
     public ArrayList<IEM> getIEMBaseData(@RequestParam(name="genes") String genes) throws IOException {
         String [] genesArr=genes.replaceAll("\\\"","").replaceAll("(\\[|\\])","").split(",");
         ArrayList<String> potentialIEMgenes = new ArrayList<>(Arrays.asList(genesArr));
+        // limiting to 1000 gene query to prevent API blacklist from IEMBase
         potentialIEMgenes=new ArrayList<>(potentialIEMgenes.subList(0,1000));
         ArrayList<IEM> iemArray = new ArrayList<>();
         System.out.println("Process Starting processing :"+potentialIEMgenes.size());
@@ -142,6 +143,7 @@ public class IEMBaseController {
         iem.setIem_geneid(iemID);
         iem.setIem_omim(iemDto.getOmimNo());
 
+        // creates the biochemical marker object
         try{
             UserAgent userAgent = new UserAgent();
             userAgent.openJSON(json);  //open JSON from a file
@@ -165,15 +167,20 @@ public class IEMBaseController {
                 hmdbs = new ArrayList<>(Arrays.asList(symptomHmdbJson.toString().substring(1, symptomHmdbJson.toString().length() - 2).replaceAll("\"", "").split(",")));
             } catch(Exception e)
             {
+                // iem is returned if there are no biochemical markers
                 return iem;
             }
+
+            // Debug purposes
             //            System.out.println("node name: " + names.toString());
 //            System.out.println("node name: " + tests.toString());
 //            System.out.println("node name: " + hmdbs.toString());
             ////System.out.println(names.size());
-            for (String each_name : names) {
-                //System.out.println(each_name);
-            }
+//            for (String each_name : names) {
+//                //System.out.println(each_name);
+//            }
+
+            // saving to our DB
             for (int i = 0; i < names.size(); i++) {
                 IEMSymptom temp = new IEMSymptom();
                 try {
@@ -192,10 +199,13 @@ public class IEMBaseController {
                     temp.setIemSymptom_name("");
                 }
                 iemService.saveIEMSymptom(temp);
+                // this final line will add the array of iem symptoms to each iem
                 iem.getIemSymptoms().add(temp);
             }
+            // iem is now saved into DB
             iem=iemService.saveIEM(iem);
         }
+        // if there is any error while reading JSON, exception is caught
         catch(JauntException e){
             System.err.println(e);
         }

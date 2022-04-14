@@ -1,11 +1,12 @@
 package com.miDNA.andrew.services;
 
-import com.miDNA.andrew.entities.User;
+import com.miDNA.andrew.entities.UserData;
 
 import java.util.ArrayList;
 
 public interface UserService {
-    User getUserById(String id);
-    void saveUser(User User);
-    ArrayList<User>getAllUser();
+    UserData getUserById(UserData id);
+    UserData saveUser(UserData userData);
+    ArrayList<UserData>getAllUser();
+    UserData checkSession(UserData userData);
 }

@@ -22,7 +22,7 @@ export class IemBaseService {
     let genes = new Array<String>();
     let formData: FormData = new FormData()
     
-    genes.push("DDC","WDR45");
+    // genes.push("DDC","WDR45");
     for(let gene of genesArr.terms)
     {
         genes.push(gene.phen_gene);

@@ -19,6 +19,8 @@ export class VariantAnnotationsComponent implements OnInit {
     this.selectedDevice="";
     this.cases= new Array<string>();
     //this.cases[0]="Test";
+
+    // returns a list of varfish case names
     varfish.getCases().subscribe(
       (response: string[]) => {
         this.cases = response;    
@@ -28,6 +30,7 @@ export class VariantAnnotationsComponent implements OnInit {
     this.readableHeaders= new Array<string>();
 
     this.rows=new Array<GenomeLocation>();
+    // defining the table header names in list
     let r= new Array<string>();
     // for(let i=0;i<36;i++)
     // {
@@ -83,20 +86,25 @@ export class VariantAnnotationsComponent implements OnInit {
   onChange(value:string){
     this.selectedDevice=value;
     console.log("Selected value is : "+ this.selectedDevice);
+    // response comes back as an array of genome locations
     this.varfish.getGenomeLocationsByCase(this.selectedDevice).subscribe(
       (response: any) => {
         
-      
+        // looping through each variant in the array of variants from the server response
         for(let location of response)
         {
           console.log(typeof (location));
           console.log(location["caseNumber"]);
           let r = new Array<string>();
+
+          // looping through each field in a variant where i=0,1,2,...35 in header array
           for(let i of this.headers)
           {
             r.push(location[i]);
           }
+          // store all the field data into a genomeLoc object
           let g = new GenomeLocation(r);
+          // add this newly create genome location into our genomeLocation array
           this.rows.push(g)
         }
       }

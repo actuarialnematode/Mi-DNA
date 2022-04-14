@@ -1,16 +1,18 @@
-<table>
-    <tr>
-        <th>Phenotype MIM Number (OMIM)</th>
-        <th>Phenotype Name</th>
-        <th>Gene/Locus</th>
-        <th>Gene/Locus MIM Number</th>
-        <th>Location</th>
-    </tr>
-    <tr *ngFor="let omim of omimData.omims">
-        <td>{{omim.omimId}}</td>
-        <td>{{omim.pmim_name}}</td>
-        <td>{{omim.pmim_genes}}</td>
-        <td>{{omim.pmim_id}}</td>
-        <td>{{omim.pmim_location}}</td>
-    </tr>
-</table>
+<div class="wrapper">
+    <table>
+        <tr>
+            <th>Phenotype MIM Number (OMIM)</th>
+            <th>Phenotype Name</th>
+            <th>Gene/Locus</th>
+            <th>Gene/Locus MIM Number</th>
+            <th>Location</th>
+        </tr>
+        <tr *ngFor="let omim of omimData.omims">
+            <td>{{omim.omimId}}</td>
+            <td>{{omim.pmim_name}}</td>
+            <td>{{omim.pmim_genes}}</td>
+            <td>{{omim.pmim_id}}</td>
+            <td>{{omim.pmim_location}}</td>
+        </tr>
+    </table>
+</div>

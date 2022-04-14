@@ -6,6 +6,8 @@ export const environment = {
   production: false,
   serviceUrl: 'http://localhost:8081',
   loginEndpoint: '/login',
+  registerEndpoint: '/register',
+  checkEndpoint:'/checkSession',
   caseEndpoint: '/varfish/case/',
   allCasesEndpoint: '/varfish/case/all',
   doc2hpoEndpoint: '/doc2hpo',
