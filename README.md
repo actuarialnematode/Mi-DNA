@@ -1,4 +1,4 @@
-Mi-DNA: **Web application for an integrated sequence variant interpretation processing pipeline**
+Mi-DNA: web application for an integrated sequence variant interpretation processing pipeline
 =======
 
 Documentation to follow...
