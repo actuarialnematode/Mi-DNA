@@ -1,4 +1,4 @@
-Mi-DNA: an integrated variant interpretation pipeline
+Mi-DNA: an integrated user-friendly variant interpretation pipeline
 =======
 
 Documentation to follow...
