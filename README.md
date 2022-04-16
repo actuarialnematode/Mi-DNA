@@ -1,4 +1,4 @@
-Mi-DNA: an integrated application with variant interpretation capabilities
+Mi-DNA:
 =======
 
 Documentation to follow...
